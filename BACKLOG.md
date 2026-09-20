@@ -11,7 +11,7 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 ## Estado actual
 
 **VN-00 — Gobernanza inicial:** COMPLETADO  
-**VN-01 — Levantamiento real del negocio con Joel:** LISTO PARA INICIAR
+**VN-01 — Levantamiento real del negocio con Joel:** EN PROGRESO
 
 ### Gobernanza completada
 
@@ -27,6 +27,14 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 - [x] Definir prioridad de fuentes.
 - [x] Definir routing del organizador.
 - [x] Definir roadmap de madurez.
+
+## Avance de VN-01
+
+Primer conocimiento operativo real registrado:
+
+- catálogo inicial de parches en `operacion/insumos/PARCHES.md`;
+- categorías confirmadas: parches, parches estrellados y parches pequeños;
+- numeraciones y uso específico registrados únicamente según lo informado por Joel.
 
 ## Siguiente fase — VN-01
 
