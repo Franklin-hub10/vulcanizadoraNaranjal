@@ -1,12 +1,12 @@
 # Versión de gobernanza
 
-- Versión: **0.1.0**
+- Versión: **0.2.0**
 - Fecha base: **2026-09-20**
-- Estado: **Gobernanza inicial completada — listo para VN-01**
+- Estado: **Gobernanza activa — VN-01 en progreso**
 - Autoridad de gobernanza: **Franklin**
 - Actor operativo principal del negocio: **Joel**
 
-## Alcance de 0.1.0
+## Alcance de 0.2.0
 
 Incluye:
 
@@ -21,10 +21,18 @@ Incluye:
 - prioridad de fuentes;
 - regla estricta de no inventar;
 - mecanismo para que Joel introduzca nuevos aspectos operativos;
+- flujo gobernado de proformas;
+- confirmación obligatoria antes de persistir una proforma realizada;
+- separación entre proforma confirmada y cobro confirmado;
+- indexación operativa de trabajos cobrados;
 - roadmap de madurez.
 
-No incluye todavía el modelo real del negocio, que será levantado con Joel.
+## Cambio principal frente a 0.1.0
 
-## Próxima etapa
+Se incorpora `governance/PROFORMAS_Y_COBROS.md` y la regla R-016 para controlar de forma trazable el ciclo:
 
-**VN-01 — Levantamiento real del negocio con Joel.**
+`aclaración → proforma confirmada → cobro confirmado`.
+
+## Etapa actual
+
+**VN-01 — Levantamiento real del negocio con Joel**, con registros operativos mínimos habilitados para proformas y cobros.
