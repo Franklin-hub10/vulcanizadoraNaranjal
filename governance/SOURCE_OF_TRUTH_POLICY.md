@@ -60,3 +60,11 @@ Las órdenes persistidas en `operacion/ordenes_trabajo/` son la fuente canónica
 Dentro de una orden, `previsto` y `realizado` son estados distintos. Un ítem previsto no prueba ejecución.
 
 El valor final debe basarse en ítems confirmados como realizados. El cobro real debe basarse en confirmación explícita de Joel.
+
+## Fuente canónica de tarifas por franja
+
+`operacion/tarifas/TARIFAS_POR_FRANJA.md` es la fuente canónica para resolver qué tarifa corresponde según la franja horaria.
+
+Los documentos de servicios e insumos conservan el detalle operativo y origen de cada valor, pero la matriz determina la combinación `concepto + franja + tarifa + estado` aplicable.
+
+Una celda nocturna pendiente significa **tarifa no registrada**, no tarifa cero ni autorización para copiar el precio diurno.
