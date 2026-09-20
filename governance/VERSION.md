@@ -1,38 +1,26 @@
 # Versión de gobernanza
 
-- Versión: **0.2.0**
+- Versión: **0.3.0**
 - Fecha base: **2026-09-20**
 - Estado: **Gobernanza activa — VN-01 en progreso**
 - Autoridad de gobernanza: **Franklin**
 - Actor operativo principal del negocio: **Joel**
 
-## Alcance de 0.2.0
+## Alcance de 0.3.0
 
-Incluye:
+Incluye todo lo definido en 0.2.0 y agrega:
 
-- fuente de verdad;
-- separación gobernanza/operación;
-- modelo Franklin/Joel;
-- routing por actor;
-- política de cambios;
-- ciclo de vida del conocimiento;
-- histórico obligatorio;
-- política de auditoría;
-- prioridad de fuentes;
-- regla estricta de no inventar;
-- mecanismo para que Joel introduzca nuevos aspectos operativos;
-- flujo gobernado de proformas;
-- confirmación obligatoria antes de persistir una proforma realizada;
-- separación entre proforma confirmada y cobro confirmado;
-- indexación operativa de trabajos cobrados;
-- roadmap de madurez.
+- órdenes de trabajo persistentes;
+- identificadores `OT-YYYYMMDD-NNN`;
+- recuperación de órdenes por cliente o ID;
+- separación entre trabajo previsto y trabajo realizado;
+- conciliación obligatoria antes de calcular el valor final;
+- registro de adicionales y trabajos no realizados;
+- relación entre orden, valor final y cobro real;
+- tratamiento de desfases entre valor de orden y monto cobrado.
 
-## Cambio principal frente a 0.1.0
+## Flujo operativo vigente
 
-Se incorpora `governance/PROFORMAS_Y_COBROS.md` y la regla R-016 para controlar de forma trazable el ciclo:
+`orden registrada → ejecución → conciliación → orden valorada → cobro confirmado`.
 
-`aclaración → proforma confirmada → cobro confirmado`.
-
-## Etapa actual
-
-**VN-01 — Levantamiento real del negocio con Joel**, con registros operativos mínimos habilitados para proformas y cobros.
+Las proformas se conservan como cotizaciones previas cuando correspondan, pero no sustituyen a la orden de trabajo ni al cobro.
