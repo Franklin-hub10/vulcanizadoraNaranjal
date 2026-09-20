@@ -149,3 +149,17 @@ El orden obligatorio es:
 3. **Confirmar cobro:** una proforma solo pasa a cobro e indicadores cuando Joel confirma explícitamente que ya fue cobrada.
 
 No se puede inferir un cobro a partir de una proforma confirmada.
+
+## R-017 — Órdenes de trabajo
+
+Cuando Joel registre trabajo previsto para un cliente, el organizador debe persistirlo como orden de trabajo.
+
+Antes de calcular el valor final:
+
+1. recuperar la orden vigente;
+2. distinguir lo previsto de lo realizado;
+3. confirmar trabajos omitidos, adicionales o cambios;
+4. valorar únicamente lo confirmado como ejecutado;
+5. esperar confirmación de Joel antes de cerrar el valor final.
+
+Una orden valorada no se considera cobrada hasta confirmación explícita del pago.
