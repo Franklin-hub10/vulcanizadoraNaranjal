@@ -8,7 +8,7 @@ Indexar trabajos o proformas que Joel haya confirmado explícitamente como cobra
 
 - Una proforma confirmada no entra aquí automáticamente.
 - Solo se registra un cobro cuando Joel indique que ya fue cobrado.
-- Cada cobro debe relacionarse con su proforma cuando exista.
+- Cada cobro debe relacionarse con su orden de trabajo cuando exista; si además existió una proforma previa, puede conservar también esa referencia.
 - Formato de ID: `CB-YYYYMMDD-NNN`.
 
 ## Registros
