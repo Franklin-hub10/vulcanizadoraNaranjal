@@ -137,3 +137,15 @@ No crear carpetas, archivos o taxonomías por anticipación. La arquitectura deb
 ## R-015 — Trazabilidad
 
 Toda decisión estructural importante debe poder reconstruirse desde el repositorio.
+
+## R-016 — Flujo obligatorio de proformas y cobros
+
+Toda solicitud relacionada con cuánto cobrar por un trabajo realizado, una proforma o un cobro debe seguir `governance/PROFORMAS_Y_COBROS.md`.
+
+El orden obligatorio es:
+
+1. **Aclarar:** si existe una duda material que pueda cambiar el cálculo, preguntar a Joel antes de cerrar la proforma.
+2. **Confirmar proforma:** una proforma solo se persiste como realizada cuando Joel confirma que está correcta.
+3. **Confirmar cobro:** una proforma solo pasa a cobro e indicadores cuando Joel confirma explícitamente que ya fue cobrada.
+
+No se puede inferir un cobro a partir de una proforma confirmada.
