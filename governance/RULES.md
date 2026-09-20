@@ -140,15 +140,11 @@ Toda decisión estructural importante debe poder reconstruirse desde el reposito
 
 ## R-016 — Flujo obligatorio de proformas y cobros
 
-Toda solicitud relacionada con cuánto cobrar por un trabajo realizado, una proforma o un cobro debe seguir `governance/PROFORMAS_Y_COBROS.md`.
+Las proformas o cotizaciones previas y los cobros deben seguir `governance/PROFORMAS_Y_COBROS.md`.
 
-El orden obligatorio es:
+Una proforma es una estimación previa y no demuestra ejecución. Una orden valorada demuestra únicamente que el trabajo ejecutado fue conciliado y valorado. Ninguno de los dos estados demuestra cobro.
 
-1. **Aclarar:** si existe una duda material que pueda cambiar el cálculo, preguntar a Joel antes de cerrar la proforma.
-2. **Confirmar proforma:** una proforma solo se persiste como realizada cuando Joel confirma que está correcta.
-3. **Confirmar cobro:** una proforma solo pasa a cobro e indicadores cuando Joel confirma explícitamente que ya fue cobrada.
-
-No se puede inferir un cobro a partir de una proforma confirmada.
+Solo una confirmación explícita de Joel permite registrar dinero efectivamente cobrado.
 
 ## R-017 — Órdenes de trabajo
 
