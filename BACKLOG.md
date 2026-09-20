@@ -28,6 +28,7 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 - [x] Definir routing del organizador.
 - [x] Definir roadmap de madurez.
 - [x] Flujo gobernado de proformas y cobros.
+- [x] Definir órdenes de trabajo persistentes y conciliación antes del cobro.
 
 ## Avance de VN-01
 
@@ -38,7 +39,8 @@ Primer conocimiento operativo real registrado:
 - numeraciones y uso específico registrados únicamente según lo informado por Joel;
 - catálogo inicial de servicios en `operacion/servicios/README.md` con siete servicios confirmados;
 - flujo gobernado de proformas y cobros con persistencia solo tras confirmación de Joel;
-- índices operativos mínimos para proformas confirmadas y cobros confirmados.
+- índices operativos mínimos para proformas confirmadas y cobros confirmados;
+- órdenes de trabajo persistentes por cliente/ID, con separación entre previsto y realizado.
 
 ## Siguiente fase — VN-01
 
