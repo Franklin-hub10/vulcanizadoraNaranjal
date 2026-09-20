@@ -1,10 +1,10 @@
-# Política de proformas y cobros
+# Política de órdenes de trabajo, proformas y cobros
 
 ## Propósito
 
-Definir el flujo obligatorio cuando Joel solicita calcular cuánto cobrar por un trabajo realizado, preparar una proforma, confirmar una proforma o informar que un trabajo ya fue cobrado.
+Definir el flujo obligatorio para órdenes de trabajo, proformas/cotizaciones previas, valoración final de trabajos ejecutados y cobros.
 
-Esta política evita que una duda operativa se convierta en un valor inventado y separa claramente una proforma de un cobro real.
+Esta política evita que una duda operativa se convierta en un valor inventado y separa claramente lo planificado, lo realizado, lo valorado y lo efectivamente cobrado.
 
 ## Flujo obligatorio
 
