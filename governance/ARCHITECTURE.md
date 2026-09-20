@@ -104,3 +104,18 @@ Ruta: `operacion/ordenes_trabajo/`.
 Esta capa conserva trabajos previstos y ejecutados por cliente o referencia operativa. Cada orden tiene un ID `OT-YYYYMMDD-NNN` y puede relacionarse con proformas previas y cobros posteriores.
 
 La orden es la unidad operativa que permite recuperar posteriormente qué estaba previsto, qué se confirmó como realizado, qué se agregó y cuál fue el valor final.
+
+## Matriz de tarifas por franja
+
+Ruta: `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
+
+La matriz funciona como capa de convergencia entre:
+
+- servicio o insumo;
+- unidad de cobro;
+- franja horaria;
+- tarifa;
+- estado de confirmación;
+- fuente operativa de origen.
+
+Permite incorporar nuevas franjas o excepciones futuras sin duplicar la lógica de valoración en cada orden.
