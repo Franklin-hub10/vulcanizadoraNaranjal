@@ -10,7 +10,7 @@ Registrar los servicios y tarifas que Joel confirma para trabajos relacionados c
 **Origen:** información directa proporcionada por Joel durante VN-01.  
 **Fecha de registro:** 2026-09-20.
 
-## Servicios y tarifas confirmadas
+## Servicios y tarifas confirmadas — franja Día
 
 | Servicio | Precio | Unidad de cobro |
 |---|---:|---|
@@ -23,7 +23,9 @@ Registrar los servicios y tarifas que Joel confirma para trabajos relacionados c
 
 ## Alcance confirmado
 
-Estas tarifas corresponden a **carro pequeño**.
+Estas tarifas corresponden a **carro pequeño** y a la **franja Día**. Las tarifas de Noche y los límites horarios de las franjas permanecen pendientes de definición por Joel.
+
+La resolución horaria canónica se mantiene en `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
 
 ## Información pendiente
 
