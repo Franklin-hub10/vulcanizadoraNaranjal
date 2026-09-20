@@ -168,3 +168,12 @@ Si Joel informa que cobró un valor distinto al valor final de la orden, se regi
 
 Si Joel informa por primera vez un trabajo cuando ya fue realizado, se puede crear una orden retrospectiva y marcar como realizados únicamente los ítems que Joel confirme.
 
+## Resolución horaria antes de valorar
+
+Antes de calcular el valor final de una orden, una cotización o cualquier importe a cobrar, el organizador debe resolver la franja horaria aplicable usando `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
+
+La hora relevante es la hora del servicio, no necesariamente la hora en que Joel hace la consulta.
+
+Si el trabajo incluye actividades realizadas en franjas diferentes, cada ítem deberá valorarse con la franja que corresponda a su ejecución cuando esa información esté disponible.
+
+Si la franja o su tarifa no están definidas, el valor no se cierra hasta que Joel aclare el dato necesario.
