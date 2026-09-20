@@ -159,3 +159,19 @@ Antes de calcular el valor final:
 5. esperar confirmación de Joel antes de cerrar el valor final.
 
 Una orden valorada no se considera cobrada hasta confirmación explícita del pago.
+
+## R-018 — Resolución de tarifas por franja horaria
+
+Vulcanizadora Naranjal opera 24/7 y las tarifas pueden variar según la franja horaria.
+
+Antes de calcular una cotización, valorar una orden o responder cuánto cobrar, el organizador debe resolver la franja aplicable y consultar `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
+
+Reglas obligatorias:
+
+1. los valores levantados hasta el 2026-09-20 pertenecen a la franja `dia`;
+2. las tarifas de `noche` permanecen pendientes hasta que Joel las confirme;
+3. los límites horarios de Día y Noche permanecen pendientes y no deben inferirse;
+4. si Joel indica expresamente la franja, se utiliza esa clasificación;
+5. cuando existan límites horarios confirmados, la franja se resolverá automáticamente con la hora aplicable al servicio;
+6. si no es posible determinar la franja o la tarifa correspondiente no está confirmada, se debe preguntar a Joel antes de calcular;
+7. nunca se reutiliza una tarifa diurna como tarifa nocturna por ausencia de datos.
