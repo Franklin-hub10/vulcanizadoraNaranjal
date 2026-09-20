@@ -20,9 +20,15 @@ Registrar los servicios que Joel confirma que actualmente ofrece Vulcanizadora N
 - Dar aire
 - Arreglo de llantas de moto
 
+## Detalle disponible
+
+- [Cambio de llantas — carro pequeño](./CAMBIO_LLANTAS_CARRO_PEQUENO.md): servicios y tarifas específicas confirmadas.
+
 ## Información aún no registrada
 
-Por el momento no se han informado para estos servicios:
+La información se irá detallando por tipo de servicio. Para cambio de llantas de carro pequeño ya existen tarifas registradas en su documento específico.
+
+Por el momento, según corresponda, aún pueden faltar:
 
 - precio;
 - duración;
