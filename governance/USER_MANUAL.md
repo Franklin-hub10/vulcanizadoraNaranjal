@@ -87,3 +87,23 @@ Si la necesidad implica modificar una regla de gobernanza, se eleva a Franklin.
 ## Regla de transparencia
 
 Cuando el repositorio no tenga suficiente información, la respuesta correcta es señalar qué falta. No inventar una respuesta para completar el análisis.
+
+## Proformas de trabajos realizados
+
+Cuando Joel cuente un trabajo y pregunte cuánto debe cobrar, el organizador debe:
+
+1. consultar precios y reglas vigentes en GitHub;
+2. identificar si la descripción permite calcular sin ambigüedad;
+3. si una duda puede modificar el total, preguntar antes de cerrar la proforma;
+4. presentar la proforma con cantidades, precio unitario, subtotal y total;
+5. esperar confirmación de Joel;
+6. al confirmar que está correcta, guardarla como proforma realizada;
+7. si Joel indica después que ya cobró, registrar el cobro y actualizar el índice operativo de cobros.
+
+### Estados que no deben mezclarse
+
+- `borrador`: cálculo todavía no confirmado;
+- `proforma_confirmada`: Joel validó la proforma;
+- `cobrado`: Joel confirmó que el trabajo fue efectivamente cobrado.
+
+Una proforma confirmada no es un cobro.
