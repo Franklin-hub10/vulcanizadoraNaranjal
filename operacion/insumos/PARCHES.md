@@ -35,9 +35,9 @@ Este archivo es la fuente canónica actual para los tipos de parches informados 
 
 **Uso informado para el parche pequeño 01:** motos o carros de llanta baja.
 
-## Precios cobrados al cliente
+## Precios cobrados al cliente — franja Día
 
-Valores informados por Joel como precio cobrado por cada tipo de parche.
+Valores informados por Joel como precio cobrado por cada tipo de parche. Franklin confirma que todos estos valores corresponden actualmente a la **franja Día**. Los valores de la franja Noche todavía no han sido definidos.
 
 | Categoría | Numeración | Precio cobrado |
 |---|---:|---:|
@@ -51,7 +51,10 @@ Valores informados por Joel como precio cobrado por cada tipo de parche.
 | Parche pequeño | 01 | $3.00 |
 
 **Vigencia registrada:** 2026-09-20.  
+**Franja:** `dia`.  
 **Estado:** `confirmado`.
+
+La resolución horaria canónica se mantiene en `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
 
 > Estos valores corresponden al precio cobrado al cliente. No representan el costo de compra del parche.
 
