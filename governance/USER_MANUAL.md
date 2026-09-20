@@ -107,3 +107,20 @@ Cuando Joel cuente un trabajo y pregunte cuánto debe cobrar, el organizador deb
 - `cobrado`: Joel confirmó que el trabajo fue efectivamente cobrado.
 
 Una proforma confirmada no es un cobro.
+
+## Uso de órdenes de trabajo
+
+Cuando Joel informe una orden para un cliente, se registra aunque el trabajo todavía no esté terminado.
+
+Ejemplo de ciclo:
+
+1. Joel informa: "Orden de Pepito Pérez: parche 112 y cambio de posición".
+2. Se crea una orden abierta y se guarda lo previsto.
+3. Más adelante Joel pregunta por Pepito Pérez.
+4. El organizador recupera la orden y muestra lo registrado.
+5. Antes de valorar, pregunta qué se hizo realmente y si hubo adicionales.
+6. Se actualiza la orden con lo ejecutado.
+7. Se calcula el valor final a cobrar y Joel lo confirma.
+8. Si Joel informa el pago, se registra el cobro real.
+
+Si el cobro difiere del valor final, se conserva tanto el valor de la orden como el valor efectivamente cobrado.
