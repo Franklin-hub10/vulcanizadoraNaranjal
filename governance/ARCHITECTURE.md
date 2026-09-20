@@ -96,3 +96,11 @@ A partir de la regla definida por Franklin se habilitan las siguientes rutas ope
 Estas rutas pertenecen a la capa operativa. La regla que determina cuándo un registro puede entrar en ellas pertenece a gobernanza y se encuentra en `governance/PROFORMAS_Y_COBROS.md`.
 
 El índice de cobros no equivale todavía a un modelo completo de KPI financieros.
+
+## Órdenes de trabajo
+
+Ruta: `operacion/ordenes_trabajo/`.
+
+Esta capa conserva trabajos previstos y ejecutados por cliente o referencia operativa. Cada orden tiene un ID `OT-YYYYMMDD-NNN` y puede relacionarse con proformas previas y cobros posteriores.
+
+La orden es la unidad operativa que permite recuperar posteriormente qué estaba previsto, qué se confirmó como realizado, qué se agregó y cuál fue el valor final.
