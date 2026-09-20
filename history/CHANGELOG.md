@@ -74,3 +74,26 @@ Joel confirma que:
 ### Impacto
 
 Los precios registrados continúan siendo el precio final cobrado al cliente para cada numeración. La mano de obra no se registra como cargo adicional separado en estos casos.
+
+
+## 2026-09-20 — Catálogo inicial de servicios
+
+### Añadido
+
+Joel confirma que Vulcanizadora Naranjal ofrece:
+
+- cambio de llantas;
+- rotación de llantas;
+- cambio de aro;
+- apretada de tuercas;
+- inflar llantas;
+- dar aire;
+- arreglo de llantas de moto.
+
+### Pendiente
+
+No se registran todavía precios, procedimientos, tiempos, materiales ni condiciones específicas para estos servicios.
+
+### Nota
+
+`Inflar llantas` y `Dar aire` se conservan como conceptos separados hasta que Joel confirme si son equivalentes o diferentes.
