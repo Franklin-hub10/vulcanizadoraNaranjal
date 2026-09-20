@@ -124,3 +124,19 @@ Ejemplo de ciclo:
 8. Si Joel informa el pago, se registra el cobro real.
 
 Si el cobro difiere del valor final, se conserva tanto el valor de la orden como el valor efectivamente cobrado.
+
+## Tarifas de día y noche
+
+La vulcanizadora atiende 24/7 y el precio puede cambiar según el horario.
+
+Actualmente:
+
+- todos los precios levantados corresponden a `Día`;
+- los horarios exactos de Día y Noche están pendientes;
+- los precios de Noche están pendientes.
+
+Por eso, mientras Joel no defina los rangos, una hora concreta por sí sola no permite decidir automáticamente si corresponde Día o Noche.
+
+Cuando los rangos queden confirmados, el organizador resolverá automáticamente la tarifa usando la hora del servicio. Si Joel ya dijo explícitamente "fue de día" o "fue de noche", esa información puede utilizarse directamente.
+
+Nunca se debe cobrar una tarifa de Día en la Noche solo porque todavía no exista una tarifa nocturna registrada.
