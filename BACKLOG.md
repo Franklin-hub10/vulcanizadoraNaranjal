@@ -10,10 +10,10 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 
 ## Estado actual
 
-**Fase:** VN-00 — Gobernanza inicial  
-**Estado:** EN PROGRESO
+**VN-00 — Gobernanza inicial:** COMPLETADO  
+**VN-01 — Levantamiento real del negocio con Joel:** LISTO PARA INICIAR
 
-### Completado
+### Gobernanza completada
 
 - [x] Definir GitHub como fuente persistente de verdad.
 - [x] Separar gobernanza de operación.
@@ -21,10 +21,14 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 - [x] Definir que la identidad declarada es routing operativo y no autenticación técnica.
 - [x] Definir que Joel puede ampliar conocimiento operativo sin alterar gobernanza.
 - [x] Definir conservación de histórico.
+- [x] Definir política de cambios.
+- [x] Definir ciclo de vida del conocimiento.
+- [x] Definir auditoría.
+- [x] Definir prioridad de fuentes.
+- [x] Definir routing del organizador.
+- [x] Definir roadmap de madurez.
 
-### Siguiente fase
-
-**VN-01 — Levantamiento real del negocio con Joel**
+## Siguiente fase — VN-01
 
 No debe iniciarse modelando servicios o procesos por suposición. Joel deberá explicar progresivamente:
 
@@ -87,6 +91,9 @@ Se debe distinguir entre:
 - `governance/ARCHITECTURE.md`
 - `governance/CHANGE_POLICY.md`
 - `governance/KNOWLEDGE_LIFECYCLE.md`
+- `governance/AUDIT_POLICY.md`
+- `governance/SOURCE_OF_TRUTH_POLICY.md`
 - `governance/USER_MANUAL.md`
+- `governance/ROADMAP.md`
 - `system/ROUTING.md`
 - `history/DECISION_LOG.md`
