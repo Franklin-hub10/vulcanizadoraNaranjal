@@ -35,6 +35,26 @@ Este archivo es la fuente canónica actual para los tipos de parches informados 
 
 **Uso informado para el parche pequeño 01:** motos o carros de llanta baja.
 
+## Precios cobrados al cliente
+
+Valores informados por Joel como precio cobrado por cada tipo de parche.
+
+| Categoría | Numeración | Precio cobrado |
+|---|---:|---:|
+| Parche | 110 | $10.00 |
+| Parche | 112 | $10.00 |
+| Parche | 120 | $18.00 |
+| Parche | 135 | $25.00 |
+| Parche | 142 | $30.00 |
+| Parche estrellado | 02 | $10.00 |
+| Parche estrellado | 05 | $18.00 |
+| Parche pequeño | 01 | $3.00 |
+
+**Vigencia registrada:** 2026-09-20.  
+**Estado:** `confirmado`.
+
+> Estos valores corresponden al precio cobrado al cliente. No representan el costo de compra del parche.
+
 ## Información aún no registrada
 
 Por el momento no se han informado:
@@ -42,7 +62,6 @@ Por el momento no se han informado:
 - marca;
 - proveedor;
 - costo de compra;
-- precio asociado al servicio;
 - unidades por empaque;
 - stock actual;
 - stock mínimo;
@@ -57,17 +76,17 @@ Estos campos permanecen sin definir y no deben inferirse.
 
 - categorías de parches informadas por Joel;
 - numeraciones confirmadas;
-- usos explícitamente indicados por Joel.
+- usos explícitamente indicados por Joel;
+- precios cobrados al cliente informados por Joel.
 
 ## Qué no contiene
 
 - inventario;
-- precios;
-- costos;
+- costos de compra;
 - proveedores;
 - consumos;
 - reglas técnicas no explicadas todavía.
 
 ## Regla de actualización
 
-Cuando Joel informe un nuevo tipo, numeración, uso, costo, proveedor o condición operativa relacionada con parches, se debe ampliar este archivo o relacionarlo con el registro operativo correspondiente, conservando el histórico cuando exista cambio temporal relevante.
+Cuando Joel informe un nuevo tipo, numeración, uso, precio cobrado, costo de compra, proveedor o condición operativa relacionada con parches, se debe ampliar este archivo o relacionarlo con el registro operativo correspondiente, conservando el histórico cuando exista cambio temporal relevante.
