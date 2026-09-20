@@ -42,3 +42,13 @@ Si se incorporan facturas, hojas de cálculo, documentos, APIs u otras fuentes, 
 - fecha de corte;
 - método de conciliación;
 - tratamiento de inconsistencias.
+
+## Proformas y cobros
+
+Para trabajos realizados se distinguen tres niveles de evidencia:
+
+1. **información conversacional / borrador:** puede usarse para aclarar y calcular, pero no representa una proforma confirmada;
+2. **proforma confirmada:** existe cuando Joel valida expresamente el cálculo y debe persistirse en `operacion/proformas/`;
+3. **cobro confirmado:** existe únicamente cuando Joel declara que el trabajo fue cobrado y debe persistirse en `operacion/cobros/` e indexarse para indicadores.
+
+La confirmación de una proforma nunca sustituye la confirmación de cobro.
