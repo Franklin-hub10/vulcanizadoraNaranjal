@@ -25,3 +25,17 @@ Se inicializa el repositorio canónico de Vulcanizadora Naranjal.
 - definición de registros operativos;
 - definición de indicadores;
 - estructura de pilotos, escenarios y proyecciones a partir de datos reales.
+
+
+## 2026-09-20 — Inicio de levantamiento operativo VN-01
+
+### Añadido
+
+- área `operacion/insumos/`;
+- catálogo canónico inicial de parches informados por Joel;
+- numeraciones confirmadas de parches, parches estrellados y parches pequeños;
+- uso informado del parche pequeño 01 para motos o carros de llanta baja.
+
+### Sin registrar todavía
+
+No se agregaron precios, costos, stock, proveedores, marcas ni criterios técnicos no informados.
