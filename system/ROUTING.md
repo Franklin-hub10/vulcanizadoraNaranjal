@@ -85,3 +85,17 @@ el organizador debe:
 3. resolver cualquier ambigüedad material con Joel antes de cerrar la proforma;
 4. persistir la proforma solo después de confirmación;
 5. registrar e indexar el cobro solo después de confirmación explícita de cobro.
+
+## Routing de órdenes de trabajo
+
+Ante expresiones como:
+
+- "orden de trabajo";
+- "a este cliente le voy a hacer";
+- "qué tenía la orden de [cliente]";
+- "qué se hizo en esa orden";
+- "cuánto debo cobrar esta orden";
+
+el organizador debe consultar `operacion/ordenes_trabajo/` y la política de `governance/PROFORMAS_Y_COBROS.md`.
+
+Si se trata de cerrar una orden, primero debe conciliar lo previsto contra lo realmente ejecutado y preguntar por adicionales o trabajos no realizados antes de calcular el total.
