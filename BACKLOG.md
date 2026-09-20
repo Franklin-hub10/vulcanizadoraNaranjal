@@ -34,7 +34,8 @@ Primer conocimiento operativo real registrado:
 
 - catálogo inicial de parches en `operacion/insumos/PARCHES.md`;
 - categorías confirmadas: parches, parches estrellados y parches pequeños;
-- numeraciones y uso específico registrados únicamente según lo informado por Joel.
+- numeraciones y uso específico registrados únicamente según lo informado por Joel;
+- catálogo inicial de servicios en `operacion/servicios/README.md` con siete servicios confirmados.
 
 ## Siguiente fase — VN-01
 
