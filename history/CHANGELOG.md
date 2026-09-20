@@ -152,3 +152,19 @@ Esta regla queda incorporada en `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUEN
 - conciliación obligatoria antes del valor final;
 - registro de trabajos adicionales y no realizados;
 - conservación de desfases entre valor de orden y cobro real.
+
+## 2026-09-20 — Tarifas por franja horaria
+
+### Añadido
+
+- matriz `operacion/tarifas/TARIFAS_POR_FRANJA.md`;
+- categorías Día y Noche;
+- clasificación de todos los precios existentes como tarifa de Día;
+- tarifas nocturnas marcadas como pendientes;
+- límites horarios marcados como pendientes;
+- regla R-018 de resolución horaria;
+- trazabilidad de hora y franja en órdenes de trabajo.
+
+### Regla de seguridad
+
+No se copia una tarifa diurna a la franja nocturna ni se inventan límites horarios. Si el sistema no puede resolver la franja o el valor, debe consultar a Joel.
