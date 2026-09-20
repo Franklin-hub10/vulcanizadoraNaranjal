@@ -115,3 +115,18 @@ Joel informa los siguientes servicios y precios:
 ### Pendiente de precisión
 
 No se infiere la unidad de cobro de los servicios donde Joel todavía no indicó expresamente si el valor corresponde a cada llanta, cada aro o a la operación.
+
+## 2026-09-20 — Flujo gobernado de proformas y cobros
+
+### Añadido
+
+- política canónica `governance/PROFORMAS_Y_COBROS.md`;
+- regla dura R-016;
+- routing específico para proformas y cobros;
+- índice de proformas confirmadas;
+- índice de cobros confirmados;
+- índice operativo para futuros indicadores de cobro.
+
+### Regla principal
+
+Una proforma se registra solo tras confirmación de Joel. Un cobro se registra e indexa únicamente cuando Joel confirme expresamente que el trabajo ya fue cobrado.
