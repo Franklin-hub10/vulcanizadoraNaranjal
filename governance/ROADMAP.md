@@ -6,7 +6,7 @@ Este roadmap define etapas, no fechas comprometidas.
 
 **Objetivo:** establecer el marco antes de modelar el negocio.
 
-Estado: **EN PROGRESO / núcleo creado**
+Estado: **COMPLETADO — 2026-09-20**
 
 Incluye:
 
