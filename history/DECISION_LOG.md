@@ -32,3 +32,17 @@
 ## 2026-09-20 — DEC-007
 
 **Decisión:** las frases "Soy Franklin" y "Soy Joel" son routing operativo, no autenticación técnica.
+
+## 2026-09-20 — DEC-008
+
+**Decisión:** las proformas de trabajos realizados seguirán un ciclo obligatorio de aclaración, confirmación y cobro.
+
+**Definición:**
+
+- si existe una duda material, se pregunta a Joel antes de cerrar el cálculo;
+- una proforma se registra como realizada solo después de que Joel confirme que está correcta;
+- un trabajo se registra como cobrado e ingresa al índice operativo de cobros únicamente cuando Joel confirme expresamente que ya fue cobrado.
+
+**Autoridad:** Franklin.
+
+**Motivo:** evitar cobros calculados sobre supuestos y separar proformas aprobadas de ingresos efectivamente cobrados.
