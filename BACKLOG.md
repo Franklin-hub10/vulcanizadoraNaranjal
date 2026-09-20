@@ -27,6 +27,7 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 - [x] Definir prioridad de fuentes.
 - [x] Definir routing del organizador.
 - [x] Definir roadmap de madurez.
+- [x] Flujo gobernado de proformas y cobros.
 
 ## Avance de VN-01
 
@@ -35,7 +36,9 @@ Primer conocimiento operativo real registrado:
 - catálogo inicial de parches en `operacion/insumos/PARCHES.md`;
 - categorías confirmadas: parches, parches estrellados y parches pequeños;
 - numeraciones y uso específico registrados únicamente según lo informado por Joel;
-- catálogo inicial de servicios en `operacion/servicios/README.md` con siete servicios confirmados.
+- catálogo inicial de servicios en `operacion/servicios/README.md` con siete servicios confirmados;
+- flujo gobernado de proformas y cobros con persistencia solo tras confirmación de Joel;
+- índices operativos mínimos para proformas confirmadas y cobros confirmados.
 
 ## Siguiente fase — VN-01
 
@@ -104,5 +107,6 @@ Se debe distinguir entre:
 - `governance/SOURCE_OF_TRUTH_POLICY.md`
 - `governance/USER_MANUAL.md`
 - `governance/ROADMAP.md`
+- `governance/PROFORMAS_Y_COBROS.md`
 - `system/ROUTING.md`
 - `history/DECISION_LOG.md`
