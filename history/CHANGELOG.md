@@ -39,3 +39,23 @@ Se inicializa el repositorio canónico de Vulcanizadora Naranjal.
 ### Sin registrar todavía
 
 No se agregaron precios, costos, stock, proveedores, marcas ni criterios técnicos no informados.
+
+
+## 2026-09-20 — Precios cobrados por parches
+
+### Añadido
+
+Se registran como precios cobrados al cliente, informados directamente por Joel:
+
+- parche 110: $10.00;
+- parche 112: $10.00;
+- parche 120: $18.00;
+- parche 135: $25.00;
+- parche 142: $30.00;
+- parche estrellado 02: $10.00;
+- parche estrellado 05: $18.00;
+- parche pequeño 01: $3.00.
+
+### Aclaración
+
+Los valores registrados son precios de venta/cobro al cliente. El costo de compra de cada insumo continúa pendiente de levantamiento.
