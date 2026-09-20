@@ -130,3 +130,13 @@ No se infiere la unidad de cobro de los servicios donde Joel todavía no indicó
 ### Regla principal
 
 Una proforma se registra solo tras confirmación de Joel. Un cobro se registra e indexa únicamente cuando Joel confirme expresamente que el trabajo ya fue cobrado.
+
+## 2026-09-20 — Aclaración de cambio de posición de llantas
+
+### Confirmado
+
+- la tarifa de cambio de posición para carro pequeño es $1.00 por llanta;
+- cuando el cambio de posición implica intercambiar ubicaciones, se mueven dos llantas;
+- en ese caso se cobran 2 llantas, para un total de $2.00 por el cambio de posición.
+
+Esta regla queda incorporada en `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUENO.md`.
