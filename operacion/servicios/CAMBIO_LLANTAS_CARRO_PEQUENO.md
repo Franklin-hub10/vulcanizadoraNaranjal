@@ -39,3 +39,17 @@ Todavía no se ha confirmado:
 - tiempo aproximado de ejecución.
 
 No deben inferirse estos datos hasta que Joel los confirme.
+
+## Regla operativa — cambio de posición
+
+Cuando Joel indica un **cambio de posición de una llanta**, la operación implica mover también la llanta del lado opuesto para efectuar el intercambio.
+
+Por lo tanto:
+
+- la tarifa continúa siendo **$1.00 por llanta**;
+- un cambio de posición entre dos ubicaciones implica **2 llantas cobradas**;
+- el valor del cambio de posición en ese caso es **$2.00**.
+
+Esta regla fue aclarada directamente durante la operación el 2026-09-20.
+
+Si Joel describe una maniobra distinta que no implique dos llantas, debe aclararse antes de calcular la proforma.
