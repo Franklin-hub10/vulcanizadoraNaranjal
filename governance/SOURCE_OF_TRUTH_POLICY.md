@@ -52,3 +52,11 @@ Para trabajos realizados se distinguen tres niveles de evidencia:
 3. **cobro confirmado:** existe únicamente cuando Joel declara que el trabajo fue cobrado y debe persistirse en `operacion/cobros/` e indexarse para indicadores.
 
 La confirmación de una proforma nunca sustituye la confirmación de cobro.
+
+## Órdenes de trabajo como evidencia operativa
+
+Las órdenes persistidas en `operacion/ordenes_trabajo/` son la fuente canónica para reconstruir trabajos previstos y su evolución.
+
+Dentro de una orden, `previsto` y `realizado` son estados distintos. Un ítem previsto no prueba ejecución.
+
+El valor final debe basarse en ítems confirmados como realizados. El cobro real debe basarse en confirmación explícita de Joel.
