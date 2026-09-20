@@ -29,6 +29,7 @@ Antes de responder consultas sustantivas del negocio, registrar información o c
 - [x] Definir roadmap de madurez.
 - [x] Flujo gobernado de proformas y cobros.
 - [x] Definir órdenes de trabajo persistentes y conciliación antes del cobro.
+- [x] Definir resolución de tarifas por franja horaria.
 
 ## Avance de VN-01
 
@@ -40,7 +41,8 @@ Primer conocimiento operativo real registrado:
 - catálogo inicial de servicios en `operacion/servicios/README.md` con siete servicios confirmados;
 - flujo gobernado de proformas y cobros con persistencia solo tras confirmación de Joel;
 - índices operativos mínimos para proformas confirmadas y cobros confirmados;
-- órdenes de trabajo persistentes por cliente/ID, con separación entre previsto y realizado.
+- órdenes de trabajo persistentes por cliente/ID, con separación entre previsto y realizado;
+- matriz canónica de tarifas por franja, con valores actuales clasificados como Día y Noche pendiente.
 
 ## Siguiente fase — VN-01
 
@@ -58,6 +60,8 @@ No debe iniciarse modelando servicios o procesos por suposición. Joel deberá e
 - qué nuevos elementos necesita incorporar.
 
 El organizador convertirá esa información en estructura documental canónica.
+
+Pendiente prioritario de tarifas: Joel debe definir los límites horarios oficiales de Día y Noche y los precios correspondientes a la franja Noche.
 
 ## Flujo por actor
 
