@@ -46,3 +46,13 @@
 **Autoridad:** Franklin.
 
 **Motivo:** evitar cobros calculados sobre supuestos y separar proformas aprobadas de ingresos efectivamente cobrados.
+
+## 2026-09-20 — DEC-009
+
+**Decisión:** incorporar la Orden de Trabajo como registro operativo persistente previo a la valoración y al cobro.
+
+**Definición:** una orden conserva lo previsto; antes de calcular el valor final se reconcilia contra lo realmente ejecutado, incluyendo adicionales y trabajos no realizados.
+
+**Autoridad:** Franklin.
+
+**Motivo:** permitir recuperar trabajos por cliente o ID en conversaciones futuras y evitar confundir intención de trabajo con ejecución o cobro.
