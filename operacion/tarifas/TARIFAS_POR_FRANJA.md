@@ -37,14 +37,14 @@ Para seleccionar una tarifa:
 
 | Tipo | Servicio / insumo | Unidad de cobro | Día | Estado día | Noche | Estado noche | Fuente operativa |
 |---|---|---|---:|---|---:|---|---|
-| Parche | 110 | unidad / instalación incluida | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche | 112 | unidad / instalación incluida | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche | 120 | unidad / instalación incluida | $18.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche | 135 | unidad / instalación incluida | $25.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche | 142 | unidad / instalación incluida | $30.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche estrellado | 02 | unidad / instalación incluida | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche estrellado | 05 | unidad / instalación incluida | $18.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
-| Parche pequeño | 01 | unidad / instalación incluida | $3.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche | 110 | por parche; instalación incluida cuando aplica | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche | 112 | por parche; instalación incluida cuando aplica | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche | 120 | por parche; instalación incluida cuando aplica | $18.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche | 135 | por parche; instalación incluida cuando aplica | $25.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche | 142 | por parche; instalación incluida cuando aplica | $30.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche estrellado | 02 | por parche; instalación incluida cuando aplica | $10.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche estrellado | 05 | por parche; instalación incluida cuando aplica | $18.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
+| Parche pequeño | 01 | por parche; instalación incluida cuando aplica | $3.00 | confirmado | — | pendiente | `operacion/insumos/PARCHES.md` |
 | Servicio carro pequeño | Armar y desarmar la llanta | unidad pendiente de precisar | $2.00 | confirmado | — | pendiente | `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUENO.md` |
 | Servicio carro pequeño | Cambio de posición de llanta | por llanta | $1.00 | confirmado | — | pendiente | `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUENO.md` |
 | Servicio carro pequeño | Desarmar llantas fuera del vehículo | unidad pendiente de precisar | $1.00 | confirmado | — | pendiente | `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUENO.md` |
