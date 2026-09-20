@@ -140,3 +140,15 @@ Una proforma se registra solo tras confirmación de Joel. Un cobro se registra e
 - en ese caso se cobran 2 llantas, para un total de $2.00 por el cambio de posición.
 
 Esta regla queda incorporada en `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUENO.md`.
+
+## 2026-09-20 — Ciclo de órdenes de trabajo
+
+### Añadido
+
+- `operacion/ordenes_trabajo/INDEX.md`;
+- identificadores `OT-YYYYMMDD-NNN`;
+- separación entre trabajo previsto y realizado;
+- recuperación de órdenes por cliente o identificador;
+- conciliación obligatoria antes del valor final;
+- registro de trabajos adicionales y no realizados;
+- conservación de desfases entre valor de orden y cobro real.
