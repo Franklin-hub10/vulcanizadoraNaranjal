@@ -121,3 +121,50 @@ Solo se alimenta con registros cuyo estado sea `cobrado`.
 ## Autoridad
 
 Esta política fue definida por Franklin como regla de gobernanza el 2026-09-20.
+
+## Órdenes de trabajo — flujo previo a la valoración
+
+Cuando Joel informe una orden de trabajo para un cliente, el organizador debe registrarla antes del cobro en `operacion/ordenes_trabajo/` con un identificador `OT-YYYYMMDD-NNN`.
+
+La orden debe separar siempre:
+
+- trabajos previstos;
+- trabajos confirmados como realizados;
+- trabajos confirmados como no realizados;
+- trabajos adicionales realizados;
+- observaciones relevantes;
+- estado de la orden.
+
+El nombre del cliente puede utilizarse para localizar la orden, pero no es un identificador único. Si existen varias órdenes razonablemente coincidentes, se debe aclarar cuál corresponde antes de modificarla.
+
+### Recuperación posterior
+
+Cuando Joel pregunte por una orden anterior, el organizador debe consultar el repositorio y responder con lo que quedó registrado. Debe distinguir lo previsto de lo ya confirmado como realizado.
+
+Antes de calcular el valor final, debe preguntarse o verificarse con Joel:
+
+1. si se hicieron todos los trabajos previstos;
+2. si alguno no se realizó;
+3. si se realizó algo adicional;
+4. si cambió alguna cantidad, pieza, parche, servicio o condición que afecte el cobro.
+
+Lo previsto nunca se considera realizado por defecto.
+
+### Valor final de la orden
+
+Una vez conciliado lo realmente ejecutado, se calcula el **valor final a cobrar de la orden de trabajo**. Para trabajo ya ejecutado, este valor no se trata como una proforma previa.
+
+Solo los ítems confirmados como realizados o adicionales realizados forman parte del total a cobrar.
+
+La orden pasa a `orden_valorada` únicamente después de que Joel confirme que el detalle y el total son correctos.
+
+### Cobro y desfases
+
+Una orden valorada no equivale a un cobro. Solo se registra como cobrada cuando Joel confirme el pago.
+
+Si Joel informa que cobró un valor distinto al valor final de la orden, se registra el importe realmente cobrado y el desfase. No se inventa la causa; se registra únicamente la explicación que Joel proporcione.
+
+### Órdenes informadas después de ejecutar el trabajo
+
+Si Joel informa por primera vez un trabajo cuando ya fue realizado, se puede crear una orden retrospectiva y marcar como realizados únicamente los ítems que Joel confirme.
+
