@@ -99,3 +99,17 @@ Ante expresiones como:
 el organizador debe consultar `operacion/ordenes_trabajo/` y la política de `governance/PROFORMAS_Y_COBROS.md`.
 
 Si se trata de cerrar una orden, primero debe conciliar lo previsto contra lo realmente ejecutado y preguntar por adicionales o trabajos no realizados antes de calcular el total.
+
+## Routing de tarifas por horario
+
+Ante consultas de precio, valoración de órdenes o cobro, el organizador debe consultar `operacion/tarifas/TARIFAS_POR_FRANJA.md` antes de usar un valor.
+
+### Resolución
+
+1. identificar la hora del servicio o la franja indicada por Joel;
+2. si los límites horarios están definidos, clasificar automáticamente en la franja correspondiente;
+3. si los límites todavía están pendientes y Joel no indicó la franja, preguntar;
+4. aplicar únicamente una tarifa confirmada para esa franja;
+5. si la tarifa de la franja está pendiente, detener el cálculo y pedir definición.
+
+Para consultas del tipo "precio ahora", una vez definidos los rangos se utilizará la hora local `America/Guayaquil`.
