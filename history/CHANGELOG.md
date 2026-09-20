@@ -97,3 +97,21 @@ No se registran todavía precios, procedimientos, tiempos, materiales ni condici
 ### Nota
 
 `Inflar llantas` y `Dar aire` se conservan como conceptos separados hasta que Joel confirme si son equivalentes o diferentes.
+
+
+## 2026-09-20 — Tarifas de cambio de llantas para carro pequeño
+
+### Añadido
+
+Joel informa los siguientes servicios y precios:
+
+- armar y desarmar la llanta: $2.00;
+- cambio de posición de llanta: $1.00 por llanta;
+- desarmar llantas fuera del vehículo: $1.00;
+- armar y desarmar para virarla en el mismo aro: $2.00;
+- cambio de llanta por la llanta de emergencia: $2.00;
+- cambio por llantas nuevas: $2.00 por aro.
+
+### Pendiente de precisión
+
+No se infiere la unidad de cobro de los servicios donde Joel todavía no indicó expresamente si el valor corresponde a cada llanta, cada aro o a la operación.
