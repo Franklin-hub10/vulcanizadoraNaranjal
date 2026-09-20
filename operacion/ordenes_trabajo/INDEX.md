@@ -26,3 +26,18 @@ Antes de valorar una orden debe verificarse qué trabajos previstos se realizaro
 ## Registros
 
 Aún no existen órdenes de trabajo registradas bajo esta estructura.
+
+## Datos horarios de cada orden
+
+Cada orden debe registrar, cuando se conozca:
+
+- fecha prevista del servicio;
+- hora prevista del servicio;
+- fecha real de ejecución;
+- hora real de ejecución;
+- franja aplicada (`dia` / `noche` / pendiente);
+- fuente utilizada para resolver la tarifa.
+
+Si distintos trabajos de una misma orden se ejecutaron en franjas distintas, la franja debe registrarse por ítem.
+
+No se inventan horas faltantes. Si la hora o franja es necesaria para valorar y no puede resolverse con las reglas vigentes, debe preguntarse a Joel.
