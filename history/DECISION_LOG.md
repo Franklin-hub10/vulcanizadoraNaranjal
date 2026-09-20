@@ -56,3 +56,19 @@
 **Autoridad:** Franklin.
 
 **Motivo:** permitir recuperar trabajos por cliente o ID en conversaciones futuras y evitar confundir intención de trabajo con ejecución o cobro.
+
+## 2026-09-20 — DEC-010
+
+**Decisión:** las tarifas de Vulcanizadora Naranjal se resolverán por franja horaria porque la operación funciona 24/7 y los valores pueden cambiar entre Día y Noche.
+
+**Definición actual:**
+
+- todos los precios levantados hasta esta fecha corresponden a `Día`;
+- los límites horarios de Día y Noche todavía no están definidos;
+- las tarifas de Noche todavía no están definidas;
+- el ejemplo 08:30–17:30 no se toma como horario oficial;
+- `operacion/tarifas/TARIFAS_POR_FRANJA.md` será la matriz canónica de resolución.
+
+**Autoridad:** Franklin.
+
+**Motivo:** asegurar que órdenes, cotizaciones y cobros utilicen la tarifa correcta según la hora real del servicio.
