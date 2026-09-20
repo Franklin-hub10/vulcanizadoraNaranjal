@@ -1,0 +1,123 @@
+# Política de proformas y cobros
+
+## Propósito
+
+Definir el flujo obligatorio cuando Joel solicita calcular cuánto cobrar por un trabajo realizado, preparar una proforma, confirmar una proforma o informar que un trabajo ya fue cobrado.
+
+Esta política evita que una duda operativa se convierta en un valor inventado y separa claramente una proforma de un cobro real.
+
+## Flujo obligatorio
+
+### Etapa 1 — Aclaración antes de la proforma
+
+Antes de construir la proforma, el organizador debe revisar las fuentes canónicas de precios, servicios, insumos y reglas aplicables.
+
+Si existe cualquier duda material sobre lo que Joel hizo, la cantidad, la unidad de cobro, el servicio aplicado, el precio vigente o una regla necesaria para calcular el valor:
+
+1. no cerrar la proforma;
+2. preguntar a Joel;
+3. esperar su definición;
+4. registrar la aclaración operativa si corresponde;
+5. recién entonces calcular la proforma.
+
+No se debe completar un vacío mediante suposición.
+
+Si toda la información necesaria ya está confirmada y es inequívoca, se puede construir la proforma directamente.
+
+### Etapa 2 — Proforma confirmada
+
+La primera proforma presentada es un borrador conversacional hasta que Joel confirme explícitamente que está correcta.
+
+Ejemplos válidos de confirmación:
+
+- "está correcto";
+- "está bien";
+- "ok";
+- "esa es";
+- otra expresión inequívoca de aprobación.
+
+Una vez confirmada:
+
+1. registrar la proforma en `operacion/proformas/`;
+2. asignar un identificador único;
+3. incluir el detalle de conceptos, cantidades, precios unitarios, subtotales y total;
+4. indicar las fuentes canónicas utilizadas;
+5. registrar la fecha de confirmación;
+6. añadirla a `operacion/proformas/INDEX.md`.
+
+Estado canónico: `proforma_confirmada`.
+
+Una proforma confirmada **no se considera cobrada** por el solo hecho de haber sido aprobada.
+
+### Etapa 3 — Cobro confirmado
+
+Solo cuando Joel indique explícitamente que la proforma o trabajo **ya fue cobrado**, se registra como cobro.
+
+Al recibir esa confirmación:
+
+1. crear el registro correspondiente en `operacion/cobros/`;
+2. relacionarlo con la proforma de origen;
+3. registrar el importe efectivamente cobrado;
+4. si el importe cobrado difiere de la proforma, aclarar la diferencia antes de cerrar el registro;
+5. añadir el cobro a `operacion/cobros/INDEX.md`;
+6. indexarlo en `operacion/indicadores/COBROS.md`.
+
+Estado canónico: `cobrado`.
+
+Si Joel no confirma que fue cobrado, no se registra como ingreso ni como cobro realizado.
+
+## Regla de ambigüedad
+
+Cuando una ambigüedad pueda cambiar el valor final, el organizador debe preguntar antes de emitir la proforma.
+
+Ejemplos:
+
+- no está claro cuántas llantas se movieron;
+- no está claro si una tarifa es por llanta, por aro o por operación;
+- no está claro qué parche se utilizó;
+- el trabajo informado no coincide con un servicio documentado;
+- existe más de una interpretación razonable que produce totales distintos.
+
+## Identificadores
+
+Las proformas usarán: `PF-YYYYMMDD-NNN`.
+
+Los cobros usarán: `CB-YYYYMMDD-NNN`.
+
+La secuencia se determina revisando los registros existentes para la fecha. No se reutilizan identificadores.
+
+## Campos mínimos de una proforma
+
+- identificador;
+- fecha de trabajo, si está confirmada;
+- fecha de confirmación;
+- detalle de trabajos e insumos;
+- cantidad;
+- precio unitario;
+- subtotal;
+- total;
+- fuentes de precios/reglas;
+- aclaraciones relevantes;
+- estado.
+
+No se inventan cliente, placa, forma de pago u otros campos no informados.
+
+## Campos mínimos de un cobro
+
+- identificador de cobro;
+- proforma relacionada;
+- fecha de confirmación del cobro;
+- fecha efectiva de cobro, únicamente si está confirmada;
+- total cobrado;
+- diferencias frente a la proforma, si existen;
+- estado `cobrado`.
+
+## Indicadores
+
+`operacion/indicadores/COBROS.md` es un índice operativo de cobros confirmados. Su existencia no implica que todos los KPI financieros de VN-04 estén definidos.
+
+Solo se alimenta con registros cuyo estado sea `cobrado`.
+
+## Autoridad
+
+Esta política fue definida por Franklin como regla de gobernanza el 2026-09-20.
