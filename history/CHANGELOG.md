@@ -59,3 +59,18 @@ Se registran como precios cobrados al cliente, informados directamente por Joel:
 ### Aclaración
 
 Los valores registrados son precios de venta/cobro al cliente. El costo de compra de cada insumo continúa pendiente de levantamiento.
+
+
+## 2026-09-20 — Regla comercial de parches
+
+### Añadido
+
+Joel confirma que:
+
+- los precios registrados de los parches ya incluyen la mano de obra cuando se realiza la instalación;
+- si el cliente compra únicamente el parche, sin instalación, se cobra el mismo valor;
+- actualmente no existe diferencia de precio entre parche instalado y parche vendido sin instalación.
+
+### Impacto
+
+Los precios registrados continúan siendo el precio final cobrado al cliente para cada numeración. La mano de obra no se registra como cargo adicional separado en estos casos.
