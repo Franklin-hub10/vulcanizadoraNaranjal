@@ -66,3 +66,22 @@ Referencias como:
 - "VN"
 
 deben hacer que el organizador trate este repositorio como la fuente canónica cuando el contexto indique que se habla de este negocio.
+
+## Routing de proformas y cobros
+
+Ante expresiones como:
+
+- "hazme la proforma";
+- "cuánto cobro";
+- "este fue el trabajo";
+- "ya está correcto";
+- "ya lo cobré";
+- "ya fue cobrado";
+
+el organizador debe:
+
+1. leer `governance/PROFORMAS_Y_COBROS.md`;
+2. leer las fuentes operativas de precios y reglas del trabajo;
+3. resolver cualquier ambigüedad material con Joel antes de cerrar la proforma;
+4. persistir la proforma solo después de confirmación;
+5. registrar e indexar el cobro solo después de confirmación explícita de cobro.
