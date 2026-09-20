@@ -55,6 +55,15 @@ Valores informados por Joel como precio cobrado por cada tipo de parche.
 
 > Estos valores corresponden al precio cobrado al cliente. No representan el costo de compra del parche.
 
+## Regla comercial de mano de obra y venta directa
+
+- Cuando el parche se instala en la vulcanizadora, el precio registrado **ya incluye la mano de obra**.
+- Cuando el cliente compra **solo el parche**, sin instalación, se cobra **el mismo precio registrado** para esa numeración.
+- Por lo tanto, actualmente no existe un precio diferenciado entre "parche con instalación" y "parche sin instalación" para las numeraciones registradas.
+
+**Estado:** `confirmado`.  
+**Origen:** información directa proporcionada por Joel.
+
 ## Información aún no registrada
 
 Por el momento no se han informado:
@@ -77,7 +86,8 @@ Estos campos permanecen sin definir y no deben inferirse.
 - categorías de parches informadas por Joel;
 - numeraciones confirmadas;
 - usos explícitamente indicados por Joel;
-- precios cobrados al cliente informados por Joel.
+- precios cobrados al cliente informados por Joel;
+- regla comercial sobre inclusión de mano de obra y venta directa del parche.
 
 ## Qué no contiene
 
