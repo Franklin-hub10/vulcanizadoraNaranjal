@@ -78,6 +78,17 @@ Ejemplos:
 - el trabajo informado no coincide con un servicio documentado;
 - existe más de una interpretación razonable que produce totales distintos.
 
+### Regla específica para parches
+
+Cuando una proforma, orden o consulta incluya un parche, antes de seleccionar el precio debe quedar resuelta la modalidad comercial:
+
+- **con mano de obra**: usar la tarifa de parche instalado; esa tarifa ya incluye la mano de obra;
+- **solo parche / sin mano de obra**: usar la tarifa de venta del insumo sin instalación.
+
+Si la persona no especifica la modalidad, el organizador debe preguntar antes de calcular, aunque ambas tarifas coincidan para una numeración determinada.
+
+La fuente operativa de esta distinción es operacion/insumos/PARCHES.md y la tarifa aplicable por franja se resuelve en operacion/tarifas/TARIFAS_POR_FRANJA.md.
+
 ## Identificadores
 
 Las proformas usarán: `PF-YYYYMMDD-NNN`.
