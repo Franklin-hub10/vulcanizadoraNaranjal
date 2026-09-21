@@ -2,104 +2,164 @@
 
 ## Propósito
 
-Registrar los tipos de parches que Joel confirma que utiliza actualmente en la operación de Vulcanizadora Naranjal.
+Registrar los tipos de parches, sus modalidades de cobro y los precios confirmados para la operación de Vulcanizadora Naranjal.
 
 ## Fuente canónica
 
-Este archivo es la fuente canónica actual para los tipos de parches informados durante el levantamiento operativo.
+Este archivo es la fuente canónica operativa para el catálogo de parches y para distinguir entre:
+
+1. parche instalado, con mano de obra incluida;
+2. venta de solo parche, sin mano de obra.
+
+La resolución por franja horaria se mantiene en operacion/tarifas/TARIFAS_POR_FRANJA.md.
 
 ## Estado de la información
 
-**Estado general:** `confirmado`  
-**Origen:** información directa proporcionada por Joel durante el levantamiento VN-01.  
-**Fecha de registro:** 2026-09-20.
+**Estado general:** confirmado  
+**Origen:** información directa proporcionada durante el levantamiento operativo.  
+**Fecha de actualización:** 2026-09-21.  
+**Franja vigente de los precios registrados:** Día.
 
-## Tipos de parches confirmados
+Los precios de Noche continúan pendientes.
 
-### Parches
+## Catálogo confirmado
+
+### Parches para carro pequeño
 
 - 110
 - 112
-- 120
+- 114
+
+### Parches estrellados para carro pequeño
+
+- 04
+- 05
+- 02
+- 01
+- 08
+
+### Parches grandes para carro pequeño
+
+- 140
 - 135
 - 142
+- 145
 
-### Parches estrellados
+### Parches especiales para carro
 
-- 02
-- 05
+- parche pequeño Pulcaflex;
+- parche cuadrado;
+- parche mediano / redondo.
 
-### Parches pequeños
+### Parches para moto
 
-- 01
+- parche pequeño Pulcaflex.
 
-**Uso informado para el parche pequeño 01:** motos o carros de llanta baja.
+Para moto **no aplican** en este catálogo el parche cuadrado ni el parche mediano / redondo.
 
-## Precios cobrados al cliente — franja Día
+## Precios con mano de obra incluida — franja Día
 
-Valores informados por Joel como precio cobrado por cada tipo de parche. Franklin confirma que todos estos valores corresponden actualmente a la **franja Día**. Los valores de la franja Noche todavía no han sido definidos.
+### Carro pequeño — parches numerados, estrellados y grandes
 
-| Categoría | Numeración | Precio cobrado |
+| Categoría | Código | Precio con mano de obra |
 |---|---:|---:|
 | Parche | 110 | $10.00 |
-| Parche | 112 | $10.00 |
-| Parche | 120 | $18.00 |
-| Parche | 135 | $25.00 |
-| Parche | 142 | $30.00 |
-| Parche estrellado | 02 | $10.00 |
+| Parche | 112 | $13.00 |
+| Parche | 114 | $15.00 |
+| Parche estrellado | 04 | $18.00 |
+| Parche estrellado | 05 | $22.00 |
+| Parche estrellado | 02 | $12.00 |
+| Parche estrellado | 01 | $10.00 |
+| Parche estrellado | 08 | $10.00 |
+| Parche grande | 140 | $18.00 |
+| Parche grande | 135 | $25.00 |
+| Parche grande | 142 | $30.00 |
+| Parche grande | 145 | $40.00 |
+
+### Parches especiales — carro y moto
+
+| Vehículo | Tipo de parche | Precio con mano de obra |
+|---|---|---:|
+| Carro | Pequeño Pulcaflex | $3.00 |
+| Carro | Cuadrado | $4.00 |
+| Carro | Mediano / redondo | $5.00 |
+| Moto | Pequeño Pulcaflex | $3.00 |
+
+**Regla:** todos los precios de esta sección ya incluyen mano de obra. No se agrega un cargo adicional de instalación.
+
+## Precios de solo parche, sin mano de obra — franja Día
+
+### Carro pequeño — parches numerados, estrellados y grandes
+
+| Categoría | Código | Precio solo parche |
+|---|---:|---:|
+| Parche | 110 | $10.00 |
+| Parche | 112 | $13.00 |
+| Parche | 114 | $15.00 |
+| Parche estrellado | 04 | $15.00 |
 | Parche estrellado | 05 | $18.00 |
-| Parche pequeño | 01 | $3.00 |
+| Parche estrellado | 02 | $10.00 |
+| Parche estrellado | 01 | $8.00 |
+| Parche estrellado | 08 | $8.00 |
+| Parche grande | 140 | $18.00 |
+| Parche grande | 135 | $25.00 |
+| Parche grande | 142 | $30.00 |
+| Parche grande | 145 | $40.00 |
 
-**Vigencia registrada:** 2026-09-20.  
-**Franja:** `dia`.  
-**Estado:** `confirmado`.
+### Parches especiales — carro y moto
 
-La resolución horaria canónica se mantiene en `operacion/tarifas/TARIFAS_POR_FRANJA.md`.
+| Vehículo | Tipo de parche | Precio solo parche |
+|---|---|---:|
+| Carro | Pequeño Pulcaflex | $0.25 |
+| Carro | Cuadrado | $0.50 |
+| Carro | Mediano / redondo | $0.50 |
+| Moto | Pequeño Pulcaflex | $0.25 |
 
-> Estos valores corresponden al precio cobrado al cliente. No representan el costo de compra del parche.
+## Regla obligatoria antes de cotizar
 
-## Regla comercial de mano de obra y venta directa
+Cuando se solicite el precio de un parche o se prepare una proforma y no se haya indicado la modalidad, **se debe preguntar antes de calcular**:
 
-- Cuando el parche se instala en la vulcanizadora, el precio registrado **ya incluye la mano de obra**.
-- Cuando el cliente compra **solo el parche**, sin instalación, se cobra **el mismo precio registrado** para esa numeración.
-- Por lo tanto, actualmente no existe un precio diferenciado entre "parche con instalación" y "parche sin instalación" para las numeraciones registradas.
+- ¿Es con mano de obra?
+- ¿Es solo el parche, sin mano de obra?
 
-**Estado:** `confirmado`.  
-**Origen:** información directa proporcionada por Joel.
+No se debe asumir una modalidad, incluso cuando ambas modalidades tengan el mismo precio para una numeración.
+
+## Observación obligatoria en proformas
+
+Cuando una proforma incluya un parche instalado, debe quedar visible la observación:
+
+> Todos los precios de parches instalados incluyen mano de obra.
+
+Cuando corresponda a venta de solo parche, el concepto debe indicar expresamente que es **solo parche / sin mano de obra**.
+
+## Correcciones respecto del levantamiento anterior
+
+La estructura y los valores registrados el 2026-09-20 fueron reemplazados por la corrección confirmada el 2026-09-21. En particular:
+
+- 120 deja de formar parte del catálogo vigente informado;
+- se incorpora 114;
+- se amplía la lista de estrellados a 04, 05, 02, 01 y 08;
+- se define la categoría de parches grandes 140, 135, 142 y 145;
+- se incorporan parches especiales para carro y el parche pequeño Pulcaflex para moto;
+- se elimina la regla anterior que trataba el precio instalado y el precio de solo parche como necesariamente iguales.
+
+La trazabilidad del cambio se conserva en history/CHANGELOG.md.
 
 ## Información aún no registrada
 
 Por el momento no se han informado:
 
-- marca;
-- proveedor;
+- marca o proveedor, salvo el nombre operativo Pulcaflex usado para el parche pequeño;
 - costo de compra;
 - unidades por empaque;
 - stock actual;
 - stock mínimo;
 - frecuencia de compra;
 - rendimiento por unidad;
-- compatibilidades adicionales;
 - criterios técnicos para elegir cada numeración.
 
 Estos campos permanecen sin definir y no deben inferirse.
 
-## Qué contiene
-
-- categorías de parches informadas por Joel;
-- numeraciones confirmadas;
-- usos explícitamente indicados por Joel;
-- precios cobrados al cliente informados por Joel;
-- regla comercial sobre inclusión de mano de obra y venta directa del parche.
-
-## Qué no contiene
-
-- inventario;
-- costos de compra;
-- proveedores;
-- consumos;
-- reglas técnicas no explicadas todavía.
-
 ## Regla de actualización
 
-Cuando Joel informe un nuevo tipo, numeración, uso, precio cobrado, costo de compra, proveedor o condición operativa relacionada con parches, se debe ampliar este archivo o relacionarlo con el registro operativo correspondiente, conservando el histórico cuando exista cambio temporal relevante.
+Cuando se informe un nuevo tipo, numeración, uso, precio, modalidad o condición operativa relacionada con parches, se debe actualizar este archivo y la matriz operacion/tarifas/TARIFAS_POR_FRANJA.md, conservando trazabilidad cuando exista una corrección o cambio material.
