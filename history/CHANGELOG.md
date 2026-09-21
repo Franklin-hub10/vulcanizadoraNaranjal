@@ -168,3 +168,69 @@ Esta regla queda incorporada en `operacion/servicios/CAMBIO_LLANTAS_CARRO_PEQUEN
 ### Regla de seguridad
 
 No se copia una tarifa diurna a la franja nocturna ni se inventan límites horarios. Si el sistema no puede resolver la franja o el valor, debe consultar a Joel.
+
+
+## 2026-09-21 — Corrección integral del catálogo y tarifas de parches
+
+### Corregido
+
+Se reemplaza el catálogo anterior por la estructura vigente confirmada:
+
+- parches de carro pequeño: 110, 112 y 114;
+- parches estrellados: 04, 05, 02, 01 y 08;
+- parches grandes: 140, 135, 142 y 145;
+- parches especiales para carro: pequeño Pulcaflex, cuadrado y mediano/redondo;
+- para moto: únicamente parche pequeño Pulcaflex dentro de esta categoría especial.
+
+El parche 120 deja de formar parte del catálogo vigente informado.
+
+### Tarifas diurnas con mano de obra incluida
+
+- 110: $10.00;
+- 112: $13.00;
+- 114: $15.00;
+- estrellado 04: $18.00;
+- estrellado 05: $22.00;
+- estrellado 02: $12.00;
+- estrellado 01: $10.00;
+- estrellado 08: $10.00;
+- grande 140: $18.00;
+- grande 135: $25.00;
+- grande 142: $30.00;
+- grande 145: $40.00;
+- carro, pequeño Pulcaflex: $3.00;
+- carro, cuadrado: $4.00;
+- carro, mediano/redondo: $5.00;
+- moto, pequeño Pulcaflex: $3.00.
+
+Todos estos precios incluyen mano de obra.
+
+### Tarifas diurnas de solo parche, sin mano de obra
+
+- 110: $10.00;
+- 112: $13.00;
+- 114: $15.00;
+- estrellado 04: $15.00;
+- estrellado 05: $18.00;
+- estrellado 02: $10.00;
+- estrellado 01: $8.00;
+- estrellado 08: $8.00;
+- grande 140: $18.00;
+- grande 135: $25.00;
+- grande 142: $30.00;
+- grande 145: $40.00;
+- carro, pequeño Pulcaflex: $0.25;
+- carro, cuadrado: $0.50;
+- carro, mediano/redondo: $0.50;
+- moto, pequeño Pulcaflex: $0.25.
+
+### Regla operativa nueva
+
+Cuando se solicite un precio o una proforma de parche y no se indique la modalidad, se debe preguntar si corresponde:
+
+- con mano de obra; o
+- solo parche / sin mano de obra.
+
+No se debe asumir la modalidad.
+
+Las tarifas nocturnas y los límites oficiales de las franjas continúan pendientes.
