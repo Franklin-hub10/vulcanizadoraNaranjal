@@ -20,5 +20,6 @@ Este registro no sustituye las órdenes de trabajo por cliente ni el registro de
 | Fecha | Responsable | Archivo | Total de trabajos registrados | Cobro confirmado |
 |---|---|---|---:|---|
 | 2026-09-21 | Joel | [2026-09-21-JOEL.md](./2026-09-21-JOEL.md) | $72.50 | Sí, total |
+| 2026-09-22 | Joel | [2026-09-22-JOEL.md](./2026-09-22-JOEL.md) | $53.00 | Sí, total |
 
-**Total histórico registrado de Joel:** $72.50
+**Total histórico registrado de Joel:** $125.50
