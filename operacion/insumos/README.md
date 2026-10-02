@@ -11,13 +11,15 @@ Cada familia de insumos tendrá su propio documento cuando exista información r
 ## Contenido actual
 
 - [Parches](./PARCHES.md)
+- [Tubos de moto](./TUBOS.md)
 
 ## Qué contiene
 
 - tipos de insumos confirmados;
 - características o numeraciones informadas;
 - usos operativos expresamente explicados por Joel;
-- relaciones con servicios o procesos cuando sean conocidas.
+- relaciones con servicios o procesos cuando sean conocidas;
+- entradas de inventario confirmadas cuando exista compra o ingreso explícitamente informado.
 
 ## Qué no contiene
 
