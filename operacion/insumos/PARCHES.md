@@ -145,14 +145,27 @@ La estructura y los valores registrados el 2026-09-20 fueron reemplazados por la
 
 La trazabilidad del cambio se conserva en history/CHANGELOG.md.
 
+## Reabastecimientos confirmados
+
+### 2026-10-02
+
+| Producto | Presentación / cantidad confirmada | Costo de compra | Estado |
+|---|---|---:|---|
+| Parches — numeración no especificada | 1 caja; cantidad de parches no especificada | $10.00 | Pagado |
+| Parches #01 | 1 caja de 30 parches | $30.00 total ($1.00 por parche) | Pagado |
+
+**Total del reabastecimiento de parches: $40.00**
+
+Estos valores corresponden a esta compra específica y no se consideran costos permanentes de catálogo mientras no se confirme lo contrario.
+
 ## Información aún no registrada
 
-Por el momento no se han informado:
+Por el momento no se han informado de forma general:
 
 - marca o proveedor, salvo el nombre operativo Pulcaflex usado para el parche pequeño;
-- costo de compra;
-- unidades por empaque;
-- stock actual;
+- costo estándar de compra por tipo de parche;
+- unidades por empaque para presentaciones distintas de la caja confirmada de 30 parches #01;
+- stock total actual;
 - stock mínimo;
 - frecuencia de compra;
 - rendimiento por unidad;
