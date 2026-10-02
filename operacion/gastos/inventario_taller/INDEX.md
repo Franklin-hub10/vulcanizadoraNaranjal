@@ -8,6 +8,6 @@ Registrar exclusivamente compras de productos, materiales o insumos destinados a
 
 | Fecha | Archivo | Total |
 |---|---|---:|
-| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $39.00 |
+| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $79.00 |
 
-**Total registrado en inventario del taller: $39.00**
+**Total registrado en inventario del taller: $79.00**
