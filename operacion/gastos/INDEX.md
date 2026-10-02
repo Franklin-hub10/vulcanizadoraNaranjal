@@ -25,7 +25,7 @@ Gastos operativos, herramientas, mantenimiento y consumibles de uso interno del 
 Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario del taller. Cuando el usuario indique que un valor corresponde a una deuda, se registrará como tal dentro de esta categoría.
 
 - [Ver índice de gastos fuera del taller](./fuera_taller/INDEX.md)
-- **Total actual: $1,003.41**
+- **Total actual: $1,020.41**
 
 ## Reglas operativas
 
