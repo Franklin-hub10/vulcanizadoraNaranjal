@@ -11,7 +11,7 @@ Mantener separados los dos tipos de egresos usados para el control de Vulcanizad
 Compras de productos, materiales o insumos que ingresan al inventario del taller.
 
 - [Ver índice de inventario del taller](./inventario_taller/INDEX.md)
-- **Total actual: $39.00**
+- **Total actual: $79.00**
 
 ### 2. Gastos fuera del taller
 
