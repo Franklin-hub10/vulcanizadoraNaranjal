@@ -19,5 +19,6 @@ Mantener un histórico separado de los gastos operativos o compras informadas pa
 |---|---|---:|
 | 2026-09-23 | [2026-09-23.md](./2026-09-23.md) | $832.00 |
 | 2026-09-29 | [2026-09-29.md](./2026-09-29.md) | $171.41 |
+| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $39.00 |
 
-**Total histórico de gastos registrados: $1,003.41**
+**Total histórico de gastos registrados: $1,042.41**
