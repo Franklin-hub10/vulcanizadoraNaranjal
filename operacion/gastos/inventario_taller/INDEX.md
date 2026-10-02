@@ -6,8 +6,10 @@ Registrar exclusivamente compras de productos, materiales o insumos destinados a
 
 ## Registros
 
-| Fecha | Archivo | Total |
-|---|---|---:|
-| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $79.00 |
+| Fecha | Archivo | Total | Estado |
+|---|---|---:|---|
+| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $79.00 | Pagado |
 
 **Total registrado en inventario del taller: $79.00**
+
+**Estado general: pagado.**
