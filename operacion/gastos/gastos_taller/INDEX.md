@@ -6,8 +6,10 @@ Registrar gastos operativos, herramientas, mantenimiento y consumibles de uso in
 
 ## Registros
 
-| Fecha | Archivo | Total |
-|---|---|---:|
-| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $22.50 |
+| Fecha | Archivo | Total | Estado |
+|---|---|---:|---|
+| 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $22.50 | Pagado |
 
 **Total registrado en gastos del taller: $22.50**
+
+**Estado general: pagado.**
