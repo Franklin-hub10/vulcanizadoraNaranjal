@@ -19,14 +19,16 @@ Este registro no sustituye las órdenes de trabajo por cliente ni el registro de
 
 | Fecha | Responsable | Archivo | Total de trabajos registrados | Cobro confirmado |
 |---|---|---|---:|---|
+| 2026-09-20 | Joel | [2026-09-20-JOEL.md](./2026-09-20-JOEL.md) | $12.00 | Sí, total |
 | 2026-09-21 | Joel | [2026-09-21-JOEL.md](./2026-09-21-JOEL.md) | $72.50 | Sí, total |
 | 2026-09-22 | Joel | [2026-09-22-JOEL.md](./2026-09-22-JOEL.md) | $53.00 | Sí, total |
 | 2026-09-23 | Joel | [2026-09-23-JOEL.md](./2026-09-23-JOEL.md) | $71.00 | Sí, total |
 | 2026-09-24 | Joel | [2026-09-24-JOEL.md](./2026-09-24-JOEL.md) | $35.00 | Sí, total |
-| 2026-09-26 | Joel | [2026-09-26-JOEL.md](./2026-09-26-JOEL.md) | $77.75 | Sí, total |
+| 2026-09-26 | Joel | [2026-09-26-JOEL.md](./2026-09-26-JOEL.md) | $87.75 | Sí, total |
 | 2026-09-27 | Joel | [2026-09-27-JOEL.md](./2026-09-27-JOEL.md) | $86.25 | Sí, total |
 | 2026-09-28 | Joel | [2026-09-28-JOEL.md](./2026-09-28-JOEL.md) | $51.25 | Sí, total |
 | 2026-09-29 | Joel | [2026-09-29-JOEL.md](./2026-09-29-JOEL.md) | $134.00 | Sí, total |
 | 2026-10-01 | Joel | [2026-10-01-JOEL.md](./2026-10-01-JOEL.md) | $144.40 | Sí, total |
+| 2026-10-02 | Joel | [2026-10-02-JOEL.md](./2026-10-02-JOEL.md) | $29.00 | Sí, total |
 
-**Total histórico registrado de Joel:** $725.15
+**Total histórico registrado de Joel:** $776.15
