@@ -12,7 +12,8 @@ Resumen mensual de ingresos registrados y cobrados de Vulcanizadora Naranjal.
 | 2026-10-07 | $125.65 |
 | 2026-10-08 | $56.00 |
 | 2026-10-09 | $91.00 |
-|  | **Total octubre: $691.80** |
+| 2026-10-10 | $34.25 |
+|  | **Total octubre: $726.05** |
 
 ## Criterio
 
