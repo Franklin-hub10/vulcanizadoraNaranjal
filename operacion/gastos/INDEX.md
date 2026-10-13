@@ -6,8 +6,8 @@ Mantener separados los egresos por tipo y **por período contable**. Los valores
 
 ## Corte de períodos
 
-- **Cierre anterior (asignado a septiembre):** registros hasta el 2 de octubre de 2026, inclusive.
-- **Octubre 2026:** registros desde el 3 de octubre de 2026.
+- **Cierre anterior (asignado a septiembre):** registros hasta el 2 de octubre de 2026, salvo excepción expresamente indicada más abajo.
+- **Octubre 2026:** registros desde el 3 de octubre de 2026, **más los $17.00 de gastos fuera del taller registrados el 2 de octubre**, asignados expresamente a este período.
 - Mantener las fechas originales en los registros; el corte anterior es una clasificación de gestión para no duplicar lo ya incluido en ese cierre.
 
 ## 1. Reabastecimiento / inventario del taller
@@ -34,8 +34,8 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 
 [Ver registros de gastos fuera del taller](./fuera_taller/INDEX.md)
 
-- Cierre anterior: **$1,020.41**, pagados.
-- Octubre desde el día 3: **$64.50**, pagados (12 de octubre).
+- Cierre anterior: **$1,003.41**, pagados.
+- Octubre (incluye excepción del 2 de octubre): **$81.50**, pagados ($17.00 del 2 de octubre y $64.50 del 12 de octubre).
 
 ## Reglas operativas
 
@@ -46,4 +46,4 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 5. No inventar proveedor, responsable, forma de pago, categoría contable ni comprobante.
 6. Si no está claro a qué categoría corresponde un gasto, confirmar antes de registrarlo.
 7. Registrar el estado de pago cuando el usuario lo confirme.
-8. El corte contable acordado para ingresos y gastos de octubre inicia el **3 de octubre de 2026**; los días 1 y 2 quedan en el cierre anterior sin modificar el histórico original.
+8. El corte contable de los **ingresos** de octubre comienza el **3 de octubre de 2026**. Para **gastos**, se conserva ese criterio general, con la excepción expresa de **$17.00 de gastos fuera del taller del 2 de octubre**, que se incluyen en octubre y se excluyen del cierre anterior, sin modificar las fechas históricas.
