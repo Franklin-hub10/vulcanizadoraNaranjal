@@ -41,3 +41,7 @@ Este registro no sustituye las órdenes de trabajo por cliente ni el registro de
 | 2026-10-12 | Joel | [2026-10-12-JOEL.md](./2026-10-12-JOEL.md) | $133.50 | Sí, total |
 
 **Total histórico registrado de Joel:** $1,472.30
+
+## Nota de corte contable de octubre de 2026
+
+Por decisión del usuario, los trabajos de los días **1 y 2 de octubre de 2026** ($144.40 y $29.00) ya fueron contabilizados en el cierre de septiembre y **quedan excluidos del informe contable mensual de octubre**. Su fecha y su valor se mantienen en este índice histórico, que es cronológico y no un balance por mes. El informe mensual vigente comienza el **3 de octubre** y está en [Ingresos de octubre](../indicadores/2026-10-INGRESOS.md). No volver a sumar $173.40 al cierre de octubre.
