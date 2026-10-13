@@ -25,12 +25,6 @@ Por instrucción del usuario, los ingresos de fecha 2026-10-01 ($144.40) y 2026-
 
 Verificación: $869.55 (suma cronológica de los días 1 a 12) - $173.40 (1 y 2 de octubre) = **$696.15** (ingresos cobrados del período contable de octubre).
 
-## Borradores pendientes (no incorporados a GitHub)
-
-Borrador independiente de Isaac del 2026-10-12: **$35.00** pendiente de cobro. Se indica aquí solo para contextualizar la consulta, sin registrarlo como ingreso cobrado.
-
-**Total de trabajos generados a 2026-10-12, incluidos los pendientes: $731.15** ($696.15 cobrados + $35.00 pendientes).
-
 ## Criterio
 
 - Octubre se contabiliza a partir del 3 de octubre de 2026, sin contar nuevamente el 1 y el 2.
