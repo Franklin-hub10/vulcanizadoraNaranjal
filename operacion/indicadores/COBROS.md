@@ -20,6 +20,7 @@ Las proformas pendientes o simplemente confirmadas no cuentan como ingreso cobra
 
 | ID de cobro | Fecha de trabajos | Responsable | Total cobrado |
 |---|---|---|---:|
+| [CB-20261015-001](../cobros/CB-20261015-001.md) | 2026-10-15 | Joel | $163.75 |
 | [CB-20261016-001](../cobros/CB-20261016-001.md) | 2026-10-16 | Joel | $84.50 |
 
-**Total de este índice formal de cobros:** $84.50. Este total no sustituye el balance histórico ni el corte mensual; los cierres anteriores aún no están migrados a este índice.
+**Total de este índice formal de cobros:** $248.25. Este total no sustituye el balance histórico ni el corte mensual; los cierres anteriores aún no están migrados a este índice.
