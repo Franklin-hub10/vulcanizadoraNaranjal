@@ -18,7 +18,10 @@ Registrar por separado los gastos que no corresponden a compras de inventario de
 |---|---|---:|---|
 | 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $17.00 | Pagado |
 | 2026-10-12 | [2026-10-12.md](./2026-10-12.md) | $64.50 | Pagado |
-| | **Subtotal octubre** | **$81.50** | |
+| 2026-10-19 | [2026-10-19.md](./2026-10-19.md) | $177.00 | No confirmado |
+| | **Subtotal octubre (todos los gastos informados)** | **$258.50** | |
+
+Los **$81.50** anteriores fueron confirmados como pagados; los **$177.00** del 19 de octubre están correctamente clasificados, pero sin confirmación expresa del estado de pago.
 
 ## Regla de cierre contable
 
