@@ -37,6 +37,16 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 - Cierre anterior: **$1,003.41**, pagados.
 - Octubre (incluye excepción del 2 de octubre): **$81.50**, pagados ($17.00 del 2 de octubre y $64.50 del 12 de octubre).
 
+## 4. Gastos de octubre informados, pendientes de clasificación
+
+[Ver movimientos informados el 19 de octubre](./2026-10-19-PENDIENTES-DE-CLASIFICACION.md)
+
+- Gasto de concepto no especificado: **$150.00**.
+- Pago de internet: **$27.00**.
+- **Total pendiente de clasificación: $177.00.** El estado de pago no fue confirmado expresamente y no se asignó categoría contable por falta de información.
+- **Total de gastos informados de octubre: $258.50** = **$81.50** clasificados como gastos fuera del taller y confirmados pagados + **$177.00** sin clasificar. Es un total de importes informados, no una afirmación de que todo está pagado.
+- Mantener estos dos movimientos fuera de los índices por categoría hasta confirmar a cuál pertenecen. Al reclasificarlos, trasladar el mismo movimiento sin volver a sumarlo.
+
 ## Reglas operativas
 
 1. Mantener separadas las tres categorías: inventario del taller, gastos del taller y gastos fuera del taller.
