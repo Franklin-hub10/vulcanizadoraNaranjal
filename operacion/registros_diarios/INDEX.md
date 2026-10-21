@@ -44,8 +44,9 @@ Este registro no sustituye las órdenes de trabajo por cliente ni el registro de
 | 2026-10-17 | Joel | [2026-10-17-JOEL.md](./2026-10-17-JOEL.md) | $79.00 | Sí, total |
 | 2026-10-18 | Joel | [2026-10-18-JOEL.md](./2026-10-18-JOEL.md) | $118.00 | Sí, total |
 | 2026-10-19 | Joel | [2026-10-19-JOEL.md](./2026-10-19-JOEL.md) | $37.00 | Sí, total |
+| 2026-10-20 | Joel | [2026-10-20-JOEL.md](./2026-10-20-JOEL.md) | $44.75 | Parcial: $19.75 cobrado, $25.00 pendiente |
 
-**Total histórico registrado de Joel:** $1,954.55
+**Total histórico registrado de Joel (trabajos realizados, incluidos pendientes):** $1,999.30
 
 ## Nota de corte contable de octubre de 2026
 
