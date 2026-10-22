@@ -35,7 +35,7 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 [Ver registros de gastos fuera del taller](./fuera_taller/INDEX.md)
 
 - Cierre anterior: **$1,003.41**, pagados.
-- Octubre (incluye excepción del 2 de octubre): **$637.50** de gastos fuera del taller informados: **$81.50** confirmados como pagados ($17.00 del 2 de octubre y $64.50 del 12 de octubre), más **$556.00** con pago no confirmado ($177.00 del 19 de octubre y $379.00 del 22 de octubre). **Advertencia de conciliación:** $150.00 y $27.00 del 22 de octubre coinciden en importe con los informados el 19 de octubre. Los registros se mantienen separados por fecha; si son las mismas operaciones, se deben corregir $177.00 duplicados antes del cierre (importe sin esa posible duplicidad: $460.50).
+- Octubre (incluye excepción del 2 de octubre): **$460.50** de gastos fuera del taller, sin duplicados: **$81.50** confirmados como pagados ($17.00 del 2 de octubre y $64.50 del 12 de octubre), más **$379.00** con estado de pago no confirmado ($177.00 del 19 de octubre y $202.00 vigentes del 22 de octubre). **Duplicidad corregida y confirmada por el usuario:** se excluyeron del 22/10 los importes de $150.00 y $27.00 ya registrados el 19/10; sus valores originales se conservan en el registro del 19/10.
 
 ## Reglas operativas
 
