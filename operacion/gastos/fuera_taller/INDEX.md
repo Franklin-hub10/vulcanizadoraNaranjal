@@ -19,9 +19,12 @@ Registrar por separado los gastos que no corresponden a compras de inventario de
 | 2026-10-02 | [2026-10-02.md](./2026-10-02.md) | $17.00 | Pagado |
 | 2026-10-12 | [2026-10-12.md](./2026-10-12.md) | $64.50 | Pagado |
 | 2026-10-19 | [2026-10-19.md](./2026-10-19.md) | $177.00 | No confirmado |
-| | **Subtotal octubre (todos los gastos informados)** | **$258.50** | |
+| 2026-10-22 | [2026-10-22.md](./2026-10-22.md) | $379.00 | No confirmado; verificar posible duplicidad de $150 y $27 con el 19/10 |
+| | **Subtotal octubre (todos los gastos informados)** | **$637.50** | |
 
-Los **$81.50** anteriores fueron confirmados como pagados; los **$177.00** del 19 de octubre están correctamente clasificados, pero sin confirmación expresa del estado de pago.
+Los **$81.50** correspondientes al 2 y al 12 de octubre fueron confirmados como pagados. Los **$177.00** del 19 de octubre y **$379.00** del 22 de octubre ($556.00 en conjunto) no tienen confirmación expresa del estado de pago.
+
+**Control de posibles duplicados:** los nuevos importes del 22 de octubre de **$150.00** y **$27.00** coinciden con importes informados el 19 de octubre. Se mantienen registrados como movimientos separados porque el usuario pidió agregarlos, pero requieren conciliación para determinar si se trata de los mismos gastos antes de consolidar un cierre definitivo. Subtotal sin esos dos posibles duplicados: **$460.50**.
 
 ## Regla de cierre contable
 
