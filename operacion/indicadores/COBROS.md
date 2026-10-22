@@ -26,7 +26,8 @@ Las proformas pendientes o simplemente confirmadas no cuentan como ingreso cobra
 | [CB-20261018-001](../cobros/CB-20261018-001.md) | 2026-10-18 | Joel | $118.00 |
 | [CB-20261019-001](../cobros/CB-20261019-001.md) | 2026-10-19 | Joel | $37.00 |
 | [CB-20261020-001](../cobros/CB-20261020-001.md) | 2026-10-20 | Joel | $19.75 |
+| [CB-20261021-001](../cobros/CB-20261021-001.md) | 2026-10-21 | Joel | $61.65 |
 
-**Total de este índice formal de cobros:** $502.00. Este total no sustituye el balance histórico ni el corte mensual; los cierres anteriores aún no están migrados a este índice.
+**Total de este índice formal de cobros:** $563.65. Este total no sustituye el balance histórico ni el corte mensual; los cierres anteriores aún no están migrados a este índice.
 
 El cobro del 20 de octubre es parcial respecto al trabajo diario: **$25.00 pendientes**, excluidos del total de cobros.

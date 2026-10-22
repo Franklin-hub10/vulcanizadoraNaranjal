@@ -21,6 +21,7 @@ Indexar trabajos o proformas que Joel haya confirmado explícitamente como cobra
 | [CB-20261018-001](./CB-20261018-001.md) | 2026-10-18 | Joel | [2026-10-18-JOEL.md](../registros_diarios/2026-10-18-JOEL.md) | $118.00 | cobrado |
 | [CB-20261019-001](./CB-20261019-001.md) | 2026-10-19 | Joel | [2026-10-19-JOEL.md](../registros_diarios/2026-10-19-JOEL.md) | $37.00 | cobrado |
 | [CB-20261020-001](./CB-20261020-001.md) | 2026-10-20 | Joel | [2026-10-20-JOEL.md](../registros_diarios/2026-10-20-JOEL.md) | $19.75 | cobrado (abono parcial de los trabajos del día) |
+| [CB-20261021-001](./CB-20261021-001.md) | 2026-10-21 | Joel | [2026-10-21-JOEL.md](../registros_diarios/2026-10-21-JOEL.md) | $61.65 | cobrado |
 
 Los cierres históricos anteriores del índice de registros diarios no se migran automáticamente a este índice.
 
