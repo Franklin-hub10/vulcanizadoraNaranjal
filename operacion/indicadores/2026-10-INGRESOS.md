@@ -26,6 +26,23 @@ Resumen mensual contable de ingresos cobrados de Vulcanizadora Naranjal, con cor
 
 No se registraron trabajos independientes el 4 de octubre; los atribuidos inicialmente a ese día se corrigieron al 3 de octubre.
 
+## Ingreso adicional informado — cobro por confirmar
+
+| Fecha de comunicación | Registro | Ingreso informado | Estado |
+|---|---|---:|---|
+| 2026-10-22 | [Ingreso adicional de $400.00](./2026-10-22-INGRESO-INFORMADO.md) | $400.00 | No se ha confirmado expresamente su cobro |
+| | **Total adicional informado** | **$400.00** | |
+
+**Conciliación de ingresos de octubre**
+
+| Clasificación | Total |
+|---|---:|
+| Ingresos cobrados confirmados (3–21 de octubre) | $1,259.80 |
+| Ingreso adicional informado (22 de octubre; cobro por confirmar) | $400.00 |
+| **Total de ingresos informados (incluye el monto por confirmar)** | **$1,659.80** |
+
+El monto adicional de $400.00 no se asocia a una venta o servicio específico ni se incorpora al índice canónico de cobros mientras no exista confirmación expresa de pago. Por ello, el **total efectivamente cobrado permanece en $1,259.80**, y los **$1,659.80** constituyen un total de ingresos informados, no un nuevo total de cobros confirmados.
+
 ## Exclusiones por corte contable
 
 Por instrucción del usuario, los ingresos de fecha 2026-10-01 ($144.40) y 2026-10-02 ($29.00), por un total de **$173.40**, no integran los ingresos contables de octubre: ya se incluyeron en el cierre anterior atribuido a septiembre. Estas fechas conservan sus registros operativos originales para trazabilidad y NO deben sumarse otra vez al balance contable.
