@@ -22,7 +22,9 @@ Resumen mensual contable de ingresos cobrados de Vulcanizadora Naranjal, con cor
 | 2026-10-19 | $37.00 |
 | 2026-10-20 | $19.75 |
 | 2026-10-21 | $61.65 |
-| | **Total octubre cobrado: $1,259.80** |
+| 2026-10-22 | $29.00 |
+| 2026-10-23 | $69.20 |
+| | **Total octubre cobrado: $1,358.00** |
 
 No se registraron trabajos independientes el 4 de octubre; los atribuidos inicialmente a ese día se corrigieron al 3 de octubre.
 
@@ -37,23 +39,23 @@ No se registraron trabajos independientes el 4 de octubre; los atribuidos inicia
 
 | Clasificación | Total |
 |---|---:|
-| Ingresos cobrados confirmados (3–21 de octubre) | $1,259.80 |
+| Ingresos cobrados confirmados (3–23 de octubre) | $1,358.00 |
 | Ingreso adicional informado (22 de octubre; cobro por confirmar) | $400.00 |
-| **Total de ingresos informados (incluye el monto por confirmar)** | **$1,659.80** |
+| **Total de ingresos informados (incluye el monto por confirmar)** | **$1,758.00** |
 
-El monto adicional de $400.00 no se asocia a una venta o servicio específico ni se incorpora al índice canónico de cobros mientras no exista confirmación expresa de pago. Por ello, el **total efectivamente cobrado permanece en $1,259.80**, y los **$1,659.80** constituyen un total de ingresos informados, no un nuevo total de cobros confirmados.
+El monto adicional de $400.00 no se asocia a una venta o servicio específico ni se incorpora al índice canónico de cobros mientras no exista confirmación expresa de pago. Por ello, el **total efectivamente cobrado es $1,358.00**, y los **$1,758.00** constituyen el total de ingresos informados, incluyendo $400.00 aún por confirmar.
 
 ## Exclusiones por corte contable
 
 Por instrucción del usuario, los ingresos de fecha 2026-10-01 ($144.40) y 2026-10-02 ($29.00), por un total de **$173.40**, no integran los ingresos contables de octubre: ya se incluyeron en el cierre anterior atribuido a septiembre. Estas fechas conservan sus registros operativos originales para trazabilidad y NO deben sumarse otra vez al balance contable.
 
-Verificación: $869.55 (suma cronológica de los días 1 a 12) - $173.40 (1 y 2 de octubre) = $696.15 (subtotal contable al 12 de octubre). Más $163.75 cobrado el 15 de octubre, $84.50 cobrado el 16 de octubre $79.00 cobrado del cierre del 17 de octubre y $118.00 cobrado del cierre del 18 de octubre y $37.00 cobrado del cierre del 19 de octubre, más **$19.75** efectivamente cobrado por los trabajos del 20 de octubre y **$61.65** cobrado por los trabajos del 21 de octubre = **$1,259.80** de ingresos cobrados en octubre.
+Verificación: $1,259.80 cobrados por las jornadas del 3 al 21 de octubre (con el corte contable correspondiente) + $29.00 del 22 de octubre + $69.20 del 23 de octubre = **$1,358.00** de ingresos cobrados de octubre.
 
 ## Criterio
 
 - Octubre se contabiliza a partir del 3 de octubre de 2026, sin contar nuevamente el 1 y el 2.
 - La fecha real de ejecución permanece intacta en los registros operativos.
-- El total registrado y confirmado como cobrado de octubre es $1,259.80, incluyendo los cierres de Joel del 15, 16, 17, 18 y 19 de octubre, el cobro parcial de $19.75 correspondiente al 20 y el cierre total de $61.65 del 21. Los saldos pendientes y los borradores sin cobro confirmado quedan excluidos.
+- El total registrado y confirmado como cobrado de octubre es **$1,358.00**, incluyendo el cobro parcial de $19.75 del día 20, el cierre del 21 por $61.65, el cierre del 22 por $29.00 y el cierre del 23 por $69.20. Los saldos pendientes y los borradores sin cobro confirmado quedan excluidos.
 - No incluye gastos; estos valores son ingresos brutos, no utilidad neta.
 
 ## Saldo por cobrar (no contabilizado como ingreso)
