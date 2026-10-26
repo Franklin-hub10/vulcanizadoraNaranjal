@@ -17,7 +17,7 @@ Compras de productos, materiales o insumos que ingresan al inventario.
 [Ver registros de inventario](./inventario_taller/INDEX.md)
 
 - Cierre anterior: **$79.00**, pagados.
-- Octubre desde el día 3: **sin gastos registrados**.
+- Octubre desde el día 3: **$113.20 en compras de inventario registradas (44 tubos de moto, 26/10/2026)**; estado de pago **no confirmado**. No se contabiliza como egreso pagado hasta confirmación.
 
 ## 2. Gastos del taller
 
