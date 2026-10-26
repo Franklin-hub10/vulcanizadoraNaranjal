@@ -13,7 +13,12 @@ Registrar exclusivamente compras de productos, materiales o insumos destinados a
 
 ## Octubre 2026 — desde el 3 de octubre
 
-**Sin registros de inventario confirmados en este período a la fecha del último registro (12 de octubre).**
+| Fecha del registro | Archivo | Tubos ingresados | Valor de compra | Estado de pago |
+|---|---|---:|---:|---|
+| 2026-10-26 | [2026-10-26.md](./2026-10-26.md) | 44 | $113.20 | No confirmado |
+| | **Subtotal de compras registradas en octubre** | **44** | **$113.20** | |
+
+El registro es una **compra de inventario informada**, no un egreso pagado hasta confirmación. La fecha efectiva de compra no figura en la nota fotografiada. Las 44 unidades son ingreso de esta adquisición, no stock disponible global.
 
 ## Regla de cierre
 
