@@ -20,12 +20,12 @@ Registrar por separado los gastos que no corresponden a compras de inventario de
 | 2026-10-12 | [2026-10-12.md](./2026-10-12.md) | $64.50 | Pagado |
 | 2026-10-19 | [2026-10-19.md](./2026-10-19.md) | $177.00 | No confirmado |
 | 2026-10-22 | [2026-10-22.md](./2026-10-22.md) | $202.00 | No confirmado; duplicados de $150 y $27 retirados y conciliados con el 19/10 |
-| 2026-10-28 | [2026-10-28.md](./2026-10-28.md) | $689.84 | Refrigeradora $540.00 pagada; luz $69.84 pagada; Pacificard $80.00 pagada |
-| | **Subtotal octubre (todos los gastos informados)** | **$1,150.34** | |
+| 2026-10-28 | [2026-10-28.md](./2026-10-28.md) | $730.84 | Refrigeradora $540.00, luz $69.84, Pacificard $80.00 y seguro médico $41.00: todos pagados |
+| | **Subtotal octubre (todos los gastos informados)** | **$1,191.34** | |
 
-Los **$771.34** confirmados como pagados comprenden $17.00 del 2 de octubre, $64.50 del 12 de octubre, y $689.84 del 28 de octubre (refrigeradora $540.00, luz $69.84 y Pacificard $80.00). Los **$379.00** restantes de gastos fuera del taller no tienen confirmación expresa de pago: $177.00 del 19 de octubre y $202.00 vigentes del 22 de octubre.
+Los **$812.34** confirmados como pagados comprenden $17.00 del 2 de octubre, $64.50 del 12 de octubre y $730.84 del 28 de octubre (refrigeradora $540.00, luz $69.84, Pacificard $80.00 y seguro médico $41.00). Los **$379.00** restantes de gastos fuera del taller no tienen confirmación expresa de pago: $177.00 del 19 de octubre y $202.00 vigentes del 22 de octubre.
 
-**Duplicidad resuelta:** el usuario confirmó que los importes de **$150.00** y **$27.00** informados el 22 de octubre ya se habían registrado el **19 de octubre**. Se mantienen una sola vez en el 19/10 y se excluyen del total del 22/10. Se conserva la trazabilidad de la corrección en [2026-10-22.md](./2026-10-22.md). El acumulado de octubre **$1,150.34** no contiene esos duplicados.
+**Duplicidad resuelta:** el usuario confirmó que los importes de **$150.00** y **$27.00** informados el 22 de octubre ya se habían registrado el **19 de octubre**. Se mantienen una sola vez en el 19/10 y se excluyen del total del 22/10. Se conserva la trazabilidad de la corrección en [2026-10-22.md](./2026-10-22.md). El acumulado de octubre **$1,191.34** no contiene esos duplicados.
 
 ## Regla de cierre contable
 
