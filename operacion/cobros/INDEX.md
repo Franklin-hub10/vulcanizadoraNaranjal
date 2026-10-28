@@ -29,6 +29,7 @@ Indexar cobros confirmados de trabajos, proformas o ingresos adicionales, sin du
 | [CB-20261023-001](./CB-20261023-001.md) | 2026-10-23 | Joel | [2026-10-23-JOEL.md](../registros_diarios/2026-10-23-JOEL.md) | $69.20 | cobrado |
 | [CB-20261024-001](./CB-20261024-001.md) | 2026-10-24 | Joel | [2026-10-24-JOEL.md](../registros_diarios/2026-10-24-JOEL.md) | $84.50 | cobrado (cierre confirmado 27/10) |
 | [CB-20261026-001](./CB-20261026-001.md) | 2026-10-26 | Joel | [2026-10-26-JOEL.md](../registros_diarios/2026-10-26-JOEL.md) | $119.25 | cobrado (cierre confirmado 28/10) |
+| [CB-20261028-001](./CB-20261028-001.md) | 2026-10-28 | Joel | [2026-10-28-JOEL.md](../registros_diarios/2026-10-28-JOEL.md) | $98.45 | cobrado (cierre confirmado 28/10) |
 
 Los cierres históricos anteriores del índice de registros diarios no se migran automáticamente a este índice.
 
