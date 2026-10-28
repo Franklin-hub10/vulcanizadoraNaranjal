@@ -35,7 +35,8 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 [Ver registros de gastos fuera del taller](./fuera_taller/INDEX.md)
 
 - Cierre anterior: **$1,003.41**, pagados.
-- Octubre (incluye excepción del 2 de octubre): **$460.50** de gastos fuera del taller, sin duplicados: **$81.50** confirmados como pagados ($17.00 del 2 de octubre y $64.50 del 12 de octubre), más **$379.00** con estado de pago no confirmado ($177.00 del 19 de octubre y $202.00 vigentes del 22 de octubre). **Duplicidad corregida y confirmada por el usuario:** se excluyeron del 22/10 los importes de $150.00 y $27.00 ya registrados el 19/10; sus valores originales se conservan en el registro del 19/10.
+- Octubre (incluye excepción del 2 de octubre): **$1,070.34** de gastos fuera del taller, sin duplicados: **$151.34** informados como pagados ($17.00 del 2 de octubre, $64.50 del 12 de octubre y $69.84 del pago de luz del 28 de octubre), más **$919.00** con estado de pago no confirmado ($177.00 del 19 de octubre, $202.00 vigentes del 22 de octubre y $540.00 de compra de refrigeradora del 28 de octubre). **Duplicidad corregida y confirmada por el usuario:** se excluyeron del 22/10 los importes de $150.00 y $27.00 ya registrados el 19/10; sus valores originales se conservan en el registro del 19/10.
+- **Total de todas las categorías informado para octubre 2026:** **$1,183.54** ($1,070.34 fuera del taller + $113.20 compra de inventario del taller + $0.00 operativos). De ello **$151.34** se registra como pagado y **$1,032.20** permanece sin estado de pago confirmado.
 
 ## Reglas operativas
 
