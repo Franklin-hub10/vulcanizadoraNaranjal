@@ -25,7 +25,8 @@ Resumen mensual contable de ingresos cobrados de Vulcanizadora Naranjal, con cor
 | 2026-10-22 | $29.00 |
 | 2026-10-23 | $69.20 |
 | 2026-10-24 | $84.50 |
-| | **Subtotal de servicios cobrados: $1,457.50** |
+| 2026-10-26 | $119.25 |
+| | **Subtotal de servicios cobrados: $1,576.75** |
 
 No se registraron trabajos independientes el 4 de octubre; los atribuidos inicialmente a ese día se corrigieron al 3 de octubre.
 
@@ -42,9 +43,9 @@ Este ingreso adicional no se atribuye a un servicio o venta específica. La fech
 
 | Clasificación | Total |
 |---|---:|
-| Servicios del taller cobrados confirmados (3–24 de octubre) | $1,457.50 |
+| Servicios del taller cobrados confirmados (3–26 de octubre) | $1,576.75 |
 | Ingreso adicional informado el 22/10 y cobrado confirmado el 27/10 | $400.00 |
-| **Total octubre efectivamente cobrado** | **$1,857.50** |
+| **Total octubre efectivamente cobrado** | **$1,976.75** |
 
 No queda importe pendiente de cobro del ingreso adicional de $400.00. El saldo pendiente del parche 01 del 20 de octubre se conserva de manera independiente.
 
@@ -52,13 +53,13 @@ No queda importe pendiente de cobro del ingreso adicional de $400.00. El saldo p
 
 Por instrucción del usuario, los ingresos de fecha 2026-10-01 ($144.40) y 2026-10-02 ($29.00), por un total de **$173.40**, no integran los ingresos contables de octubre: ya se incluyeron en el cierre anterior atribuido a septiembre. Estas fechas conservan sus registros operativos originales para trazabilidad y NO deben sumarse otra vez al balance contable.
 
-Verificación: $1,274.80 cobrados por las jornadas del 3 al 21 de octubre (con el corte contable correspondiente) + $29.00 del 22 de octubre + $69.20 del 23 de octubre + $84.50 del 24 de octubre = **$1,457.50** de servicios cobrados de octubre. Sumado el ingreso adicional ya cobrado por $400.00, el **total de ingresos cobrados de octubre es $1,857.50**.
+Verificación: $1,274.80 cobrados por las jornadas del 3 al 21 de octubre (con el corte contable correspondiente) + $29.00 del 22 de octubre + $69.20 del 23 de octubre + $84.50 del 24 de octubre + $119.25 del 26 de octubre = **$1,576.75** de servicios cobrados de octubre. Sumado el ingreso adicional ya cobrado por $400.00, el **total de ingresos cobrados de octubre es $1,976.75**.
 
 ## Criterio
 
 - Octubre se contabiliza a partir del 3 de octubre de 2026, sin contar nuevamente el 1 y el 2.
 - La fecha real de ejecución permanece intacta en los registros operativos.
-- El total registrado y confirmado como cobrado de octubre es **$1,857.50** ($1,457.50 por servicios más $400.00 de ingreso adicional confirmado el 27/10), incluyendo los cobros parciales acumulados de $34.75 del día 20 ($19.75 originalmente + $15.00 confirmados el 27/10), el cierre del 21 por $61.65, el cierre del 22 por $29.00, el cierre del 23 por $69.20 y el cierre del 24 por $84.50 (13 movimientos, cobro confirmado el 27/10). Los saldos pendientes y los borradores sin cobro confirmado quedan excluidos.
+- El total registrado y confirmado como cobrado de octubre es **$1,976.75** ($1,576.75 por servicios más $400.00 de ingreso adicional confirmado el 27/10), incluyendo los cobros parciales acumulados de $34.75 del día 20 ($19.75 originalmente + $15.00 confirmados el 27/10), el cierre del 21 por $61.65, el cierre del 22 por $29.00, el cierre del 23 por $69.20 y el cierre del 24 por $84.50 (13 movimientos, cobro confirmado el 27/10) y el cierre del 26 por $119.25 (24 movimientos, cobro confirmado el 28/10). Los saldos pendientes y los borradores sin cobro confirmado quedan excluidos.
 - No incluye gastos; estos valores son ingresos brutos, no utilidad neta.
 
 ## Saldo por cobrar (no contabilizado como ingreso)
