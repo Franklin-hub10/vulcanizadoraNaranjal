@@ -17,7 +17,7 @@ Compras de productos, materiales o insumos que ingresan al inventario.
 [Ver registros de inventario](./inventario_taller/INDEX.md)
 
 - Cierre anterior: **$79.00**, pagados.
-- Octubre desde el día 3: **$113.20 en compras de inventario registradas (44 tubos de moto, 26/10/2026)**; estado de pago **no confirmado**. No se contabiliza como egreso pagado hasta confirmación.
+- Octubre desde el día 3: **$113.20 en compras de inventario registradas (44 tubos de moto, 26/10/2026)**, **pagados** según confirmación del 11/11/2026. No se crea una compra adicional.
 
 ## 2. Gastos del taller
 
@@ -35,8 +35,8 @@ Gastos, pagos u obligaciones que no corresponden al funcionamiento o inventario 
 [Ver registros de gastos fuera del taller](./fuera_taller/INDEX.md)
 
 - Cierre anterior: **$1,003.41**, pagados.
-- Octubre (incluye excepción del 2 de octubre): **$1,191.34** de gastos fuera del taller, sin duplicados: **$812.34** confirmados como pagados ($17.00 del 2 de octubre, $64.50 del 12 de octubre y $730.84 del 28 de octubre: refrigeradora $540.00, luz $69.84, Pacificard $80.00 y seguro médico $41.00), más **$379.00** con estado de pago no confirmado ($177.00 del 19 de octubre y $202.00 vigentes del 22 de octubre). **Duplicidad corregida y confirmada por el usuario:** se excluyeron del 22/10 los importes de $150.00 y $27.00 ya registrados el 19/10; sus valores originales se conservan en el registro del 19/10.
-- **Total de todas las categorías informado para octubre 2026:** **$1,304.54** ($1,191.34 fuera del taller + $113.20 compra de inventario del taller + $0.00 operativos). De ello **$812.34** se registra como pagado y **$492.20** permanece sin estado de pago confirmado.
+- Octubre (incluye excepción del 2 de octubre): **$1,191.34** de gastos fuera del taller, **todos confirmados como pagados**. El 11/11/2026 se confirmaron los $177.00 del 19/10 y $202.00 del 22/10 (total $379.00), que antes constaban sin confirmación. **Duplicidad corregida y conservada:** los $150.00 y $27.00 repetidos el 22/10 están registrados una sola vez, el 19/10.
+- **Total de todas las categorías informado para octubre 2026:** **$1,304.54** ($1,191.34 fuera del taller + $113.20 compra de inventario del taller + $0.00 operativos). De ello **$1,304.54** está confirmado como pagado y **$0.00** permanece sin confirmación. Confirmación de los $492.20 restantes recibida el 11/11/2026. Fecha efectiva del pago no informada.
 
 ## Reglas operativas
 
